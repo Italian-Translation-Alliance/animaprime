@@ -70,8 +70,8 @@ Il mondo di Ghostfield è fornito come ambientazione di base per il gioco. Inclu
 **11 Poteri passivi**  
 Questo è un elenco di poteri passivi dell'ambientazione Ghostfield che i personaggi possono possedere. Questi poteri sono sempre attivi e includono resistenze, ampliamenti dei limiti, immunità e cose simili.
 
-**12 Poteri di carica**  
-I poteri di carica garantiscono abilità ed effetti speciali che il personaggio attiva con i dadi di carica guadagnati durante un conflitto. Includono poteri elementali come Fulgore e Uragano Glaciale, poteri condizionanti come Veleno, poteri di supporto come Ascesa della Fenice e Accelerazione e abilità speciali come Attacco Vampirico.
+**12 Poteri caricati**  
+I poteri caricati garantiscono abilità ed effetti speciali che il personaggio attiva con i dadi di carica guadagnati durante un conflitto. Includono poteri elementali come Vampata e Uragano di Ghiaccio, poteri condizionanti come Tossina, poteri di supporto come Araba Fenice e Rapidità e abilità speciali come Vampirismo.
 
 **13 Armi Spirituali**  
 Alcuni personaggi di Ghostfield possiedono armi che sono impregnate di effetti speciali. 
