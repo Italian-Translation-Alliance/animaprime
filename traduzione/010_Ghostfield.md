@@ -40,6 +40,6 @@ Se si oltrepassa uno dei Varchi presenti nel Ghostfield fino a giungere all'Altr
 
 Strane creature popolano l'Altrove, ma ciò che spinge gli umani ad attraversarlo sono i Fulcri e altri oggetti di valore che è possibile trovare tra le rocce fluttuanti. Gli Sciacalli che le sfruttano sono noti come Balzatori. Balzano da una roccia all'altra, viaggiando tra di esse n cerca di guadagno. Solamente il Primo Corpo di Spedizione di Kanissia è ufficialmente abilitato a farlo, ma ci sono parecchi Balzatori Illegali che oltrepassano furtivamente uno dei Varchi per ottenere Fulcri e oggetti di valore da rivendere a buon prezzo ai cartelli criminali che si sono formati attorno a questo commercio illecito. Alcuni di essi finanziano i ribelli Enendiani. Altri pensano solo al profitto personale.
 
-###Conflitti dell'Altrove
+### Conflitti dell'Altrove
 
 Prima o poi, i PG si ritroveranno nell'Altrove, in lotta con Abomini o Spedizionieri Kanissiani (o entrambi). Una particolare regola da applicare ai Conflitti nell'Altrove implica che ogni manovra impiegherà un ulteriore dado azione, che non verrà tirato ma sarà comunque considerato come speso, indipendentemente dal successo o fallimento. Ad esempio, una manovra che impiega 2 dadi azione ne richiederà 3 nell'Altrove, ma il giocatore tirerà solamente 2 dadi ai fini di guadagnare dadi e dovrà scartare il terzo senza poterlo tirare.
