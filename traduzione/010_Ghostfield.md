@@ -44,7 +44,7 @@ Strane creature popolano l'Altrove, ma ciò che spinge gli umani ad attraversarl
 
 Prima o poi, i PG si ritroveranno nell'Altrove, in lotta con Abomini o Spedizionieri Kanissiani (o entrambi). Una particolare regola da applicare ai Conflitti nell'Altrove implica che ogni manovra impiegherà un ulteriore dado azione, che non verrà tirato ma sarà comunque considerato come speso, indipendentemente dal successo o fallimento. Ad esempio, una manovra che impiega 2 dadi azione ne richiederà 3 nell'Altrove, ma il giocatore tirerà solamente 2 dadi ai fini di guadagnare dadi e dovrà scartare il terzo senza poterlo tirare.
 
-##Personaggi Giocanti
+## Personaggi Giocanti
 
 I personaggi giocanti possono vantare qualsiasi tipo di retroscena, fintanto che abbiano un buon motivo per starsene in gruppo. Possono essere ribelli, balzatori illegali, soldati Kanissiani, popolani, criminali, o qualsiasi altra cosa che abbia senso. Di seguito verranno descritti i due personaggi del precedente racconto. Se volete, potete interpretarli in un intermesso o un conflitto di prova per prendere confidenza con l'ambientazione prima di crearne una tutta vostra (oppure potete utilizzarli per giocare una storia vera e propria).
 
@@ -71,7 +71,7 @@ Statistiche:
 Poteri:  
 :  Percepire Varco, Comando, Resilienza II, Balzo, Resistenza Spirituale, Squadriglia Tattica, Manovra Tattica, Possanza
 
-###Tikara - Balzatrice Illegale
+### Tikara - Balzatrice Illegale
 Passione:  
 :  Gloria
 
@@ -94,7 +94,7 @@ Statistiche:
 Poteri:  
 :  Attacco Impetuoso, Eroica, Resilienza III, Balzo, Varco Innato, Vigore, Arma Spirituale (Stivali: Pneumatica)
 
-##Competenze
+## Competenze
 Ghostfield comprende wo diverse competenze. Dovrebbero essere sufficienti a corpire la maggior parte delle azioni che i personaggi compiono nelle manovre ch contraddistinguono i conflitti. tali Competenze sono:
 
 |            |            |                 |               |                 |
