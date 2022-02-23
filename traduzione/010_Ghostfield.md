@@ -46,7 +46,7 @@ Prima o poi, i PG si ritroveranno nell'Altrove, in lotta con Abomini o Spedizion
 
 ## Personaggi Giocanti
 
-I personaggi giocanti possono vantare qualsiasi tipo di retroscena, fintanto che abbiano un buon motivo per starsene in gruppo. Possono essere ribelli, balzatori illegali, soldati Kanissiani, popolani, criminali, o qualsiasi altra cosa che abbia senso. Di seguito verranno descritti i due personaggi del precedente racconto. Se volete, potete interpretarli in un intermesso o un conflitto di prova per prendere confidenza con l'ambientazione prima di crearne una tutta vostra (oppure potete utilizzarli per giocare una storia vera e propria).
+I personaggi giocanti possono vantare qualsiasi tipo di retroscena, fintanto che abbiano un buon motivo per starsene in gruppo. Possono essere ribelli, balzatori illegali, soldati Kanissiani, popolani, criminali, o qualsiasi altra cosa che abbia senso. Di seguito verranno descritti i due personaggi del precedente racconto. Se volete, potete interpretarli in un intermezzo o un conflitto di prova per prendere confidenza con l'ambientazione prima di crearne una tutta vostra (oppure potete utilizzarli per giocare una storia vera e propria).
 
 ### Capitano Malley - Veterano della Guardia Kanissiana                                                                                                                       
 Passione:  
@@ -95,7 +95,7 @@ Poteri:
 :  Attacco Impetuoso, Eroica, Resilienza III, Balzo, Varco Innato, Vigore, Arma Spirituale (Stivali: Pneumatica)
 
 ## Competenze
-Ghostfield comprende wo diverse competenze. Dovrebbero essere sufficienti a corpire la maggior parte delle azioni che i personaggi compiono nelle manovre ch contraddistinguono i conflitti. tali Competenze sono:
+Ghostfield comprende diverse competenze. Dovrebbero essere sufficienti a coprire la maggior parte delle azioni che i personaggi compiono nelle manovre ch contraddistinguono i conflitti. tali Competenze sono:
 
 |            |            |                 |               |                 |
 |------------|------------|-----------------|---------------|-----------------|
