@@ -49,49 +49,49 @@ Prima o poi, i PG si ritroveranno nell'Altrove, in lotta con Abomini o Spedizion
 I personaggi giocanti possono vantare qualsiasi tipo di retroscena, fintanto che abbiano un buon motivo per starsene in gruppo. Possono essere ribelli, balzatori illegali, soldati Kanissiani, popolani, criminali, o qualsiasi altra cosa che abbia senso. Di seguito verranno descritti i due personaggi del precedente racconto. Se volete, potete interpretarli in un intermesso o un conflitto di prova per prendere confidenza con l'ambientazione prima di crearne una tutta vostra (oppure potete utilizzarli per giocare una storia vera e propria).
 
 ### Capitano Malley - Veterano della Guardia Kanissiana                                                                                                                       
-**Passione:**  
+Passione:  
 :  Furia
 
-**Peculiarità:**  
+Peculiarità:  
 :  Larga macchia adombrata lungo la schiena spesso scambiata per una voglia. In realtà indica il punto in cui un abominio si è fuso con lui, poco prima che manifestasse i suoi poteri.
 
-**Tratti:**  
+Tratti:  
 :  Seguo gli ordini, a modo mio.
    Ho più esperienza di tutti voi.
    Protettivo nei confronti dei bambini.
 
-**Competenze:**  
+Competenze:  
 :  Armi da fuoco 4
    Audacia 3
    Lotta 2
 
-**Statistiche:**  
+Statistiche:  
 :  Riserva d'Azione 10, Ferite 4, Difesa 4                                                                                                                                    
 
-**Poteri:**  
+Poteri:  
 :  Percepire Varco, Comando, Resilienza II, Balzo, Resistenza Spirituale, Squadriglia Tattica, Manovra Tattica, Possanza
 
 ###Tikara - Balzatrice Illegale
-**Passione:**  
+Passione:  
 :  Gloria
 
-**Peculiarità:**  
+Peculiarità:  
 :  Occhi dai riflessi cangianti.
 
-**Tratti:**  
+Tratti:  
 :  Adoro gli inseguimenti.
    Proteggerò la mia famiglia ad ogni costo.
    Indebitata fino al collo.
 
-**Competenze:**  
+Competenze:  
 :  Acrobazia 4
    Armi da Mischia 3
    Prontezza 2
 
-**Statistiche:**  
+Statistiche:  
 :  Riserva d'Azione 12, Ferite 3, Difesa 5                                                                                                                                    
 
-**Poteri:**  
+Poteri:  
 :  Attacco Impetuoso, Eroica, Resilienza III, Balzo, Varco Innato, Vigore, Arma Spirituale (Stivali: Pneumatica)
 
 ##Competenze
