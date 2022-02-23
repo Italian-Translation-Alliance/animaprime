@@ -43,3 +43,71 @@ Strane creature popolano l'Altrove, ma ciò che spinge gli umani ad attraversarl
 ### Conflitti dell'Altrove
 
 Prima o poi, i PG si ritroveranno nell'Altrove, in lotta con Abomini o Spedizionieri Kanissiani (o entrambi). Una particolare regola da applicare ai Conflitti nell'Altrove implica che ogni manovra impiegherà un ulteriore dado azione, che non verrà tirato ma sarà comunque considerato come speso, indipendentemente dal successo o fallimento. Ad esempio, una manovra che impiega 2 dadi azione ne richiederà 3 nell'Altrove, ma il giocatore tirerà solamente 2 dadi ai fini di guadagnare dadi e dovrà scartare il terzo senza poterlo tirare.
+
+##Personaggi Giocanti
+
+I personaggi giocanti possono vantare qualsiasi tipo di retroscena, fintanto che abbiano un buon motivo per starsene in gruppo. Possono essere ribelli, balzatori illegali, soldati Kanissiani, popolani, criminali, o qualsiasi altra cosa che abbia senso. Di seguito verranno descritti i due personaggi del precedente racconto. Se volete, potete interpretarli in un intermesso o un conflitto di prova per prendere confidenza con l'ambientazione prima di crearne una tutta vostra (oppure potete utilizzarli per giocare una storia vera e propria).
+
+### Capitano Malley - Veterano della Guardia Kanissiana                                                                                                                       
+**Passione:**  
+:  Furia
+
+**Peculiarità:**  
+:  Larga macchia adombrata lungo la schiena spesso scambiata per una voglia. In realtà indica il punto in cui un abominio si è fuso con lui, poco prima che manifestasse i suoi poteri.
+
+**Tratti:**  
+:  Seguo gli ordini, a modo mio.
+   Ho più esperienza di tutti voi.
+   Protettivo nei confronti dei bambini.
+
+**Competenze:**  
+:  Armi da fuoco 4
+   Audacia 3
+   Lotta 2
+
+**Statistiche:**  
+:  Riserva d'Azione 10, Ferite 4, Difesa 4                                                                                                                                    
+
+**Poteri:**  
+:  Percepire Varco, Comando, Resilienza II, Balzo, Resistenza Spirituale, Squadriglia Tattica, Manovra Tattica, Possanza
+
+###Tikara - Balzatrice Illegale
+**Passione:**  
+:  Gloria
+
+**Peculiarità:**  
+:  Occhi dai riflessi cangianti.
+
+**Tratti:**  
+:  Adoro gli inseguimenti.
+   Proteggerò la mia famiglia ad ogni costo.
+   Indebitata fino al collo.
+
+**Competenze:**  
+:  Acrobazia 4
+   Armi da Mischia 3
+   Prontezza 2
+
+**Statistiche:**  
+:  Riserva d'Azione 12, Ferite 3, Difesa 5                                                                                                                                    
+
+**Poteri:**  
+:  Attacco Impetuoso, Eroica, Resilienza III, Balzo, Varco Innato, Vigore, Arma Spirituale (Stivali: Pneumatica)
+
+##Competenze
+Ghostfield comprende wo diverse competenze. Dovrebbero essere sufficienti a corpire la maggior parte delle azioni che i personaggi compiono nelle manovre ch contraddistinguono i conflitti. tali Competenze sono:
+
+|            |            |                 |               |                 |
+|------------|------------|-----------------|---------------|-----------------|
+| Acrobazia  | Aggeggi    | Armi a Distanza | Armi da Fuoco | Armi da Mischia |
+| Audacia    | Esplosivi  | Fortuna         | Fuorviare     | Gioco Sporco    |
+| Ingegneria | Intimidire | Lotta           | Percezione    | Possanza        |
+| Prontezza  | Resilienza | Scherno         | Sotterfugio   | Veicoli         |
+|            |            |                 |               |                 |
+
+inoltre, potete aggiungere nuove Competenze, previo consenso del vostro gruppo di gioco. Dovranno comprendere un ampio spettro di azioni come quelle elencate in precedenza.
+
+Di seguito verrà descritta ciascuna competenza, assieme a dei suggerimenti riguardo a come utilizzarla durante una manovra. Se volete usare una competenza durante un conflitto ma non sapete come narrarla o ciò che potete farne, chiedete suggerimenti ai vostri compagni di gioco. Non c'è niente di male nel confrontarsi e potrebbe invece portare a situazioni di gioco ancor più divertenti.
+
+Spesso, può capitare che le competenze si sovrappongano. Ad esempio, è possibile compiere una determinata manovra usando Acrobazia, Audacia o Prontezza. In questi casi, è la competenza usata che contribuirà a definire che tipo sia il personaggio e quale stile di combattimento lo contraddistingue. Non lasciate che il nome delle competenze o il modo in cui si sovrappongono limiti la vostra immaginazione nel descrivere una manovra.
+
