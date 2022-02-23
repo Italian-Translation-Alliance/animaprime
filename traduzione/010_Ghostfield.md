@@ -1,6 +1,6 @@
 # GHOSTFIELD
 
-##<u>Progenie del drago (racconto)</u>
+## Progenie del drago (racconto)
 
 Malley sibilò un'imprecazione mentre la rincorreva, schivando gli alberi contorno lungo il sentiero. Per una volta, desiderò che una Balzatrice Illegale si fermasse quando ordinato, ma era chiedere troppo. E questa in particolare era eccezionalmente lesta. Saettava tra gli alberi davanti a lui, apparendo e scomparendo alla vista. Ma dopo due anni passati in compiti di pattuglia il capitano Kanissiano conosceva questa parte di Ghostfield come le sue tasche, persino meglio dei nativi Enendiani, e girò quindi attorno a una notevole formazione rocciosa di modo da tagliarle la strada. Nel momento stesso in cui temeva avesse compiuto una svolta imprevista, giunse alla carica diretta veso di lui.
 
@@ -30,7 +30,7 @@ Malley riuscì a mettersi seduto, adocchiando sospettosamente la Balzatrice ment
 
 Lei volse lo sguardo in direzione del luogo in cui era atterrato l'abitante dell'Altrove, poi gli rivolse un sogghigno mentre lo aiutava a rimettersi in piedi. "Pare proprio che ora tu abbia qualcosa di più importante da fare piuttosto che inseguirmi".
 
-##<u>Qui e Altrove</u>
+## Qui e Altrove
 
 L'area nota come Ghostfield è ritenuta infestata da tempo. Si trova vicino ad un'altra dimensione, nota dalle genti semplicemente come l'Altrove. Varchi innati di varie dimensioni consentono alle creature di viaggiare dentro e fuori, creature la cui taglia varia da minuscola fino a raggiungere le dimensioni di un edificio. I Varchi minori sono i più comuni, mentre quelli di dimensioni maggiori si vedono raramente. La gente vive nelle vicinanze del Ghostfield, ma molti villaggi in prossimità del centro sono stati abbandonati a causa delle incessanti apparizioni di creature bizzarre e spesso pericolose.
 
