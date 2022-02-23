@@ -124,7 +124,7 @@ In terzo luogo, avete bisogno di dadi. Un sacco di dadi. Tutti i dadi usati in q
 
 Potete invece giocare con pochi dadi, ma allora dovete tenere traccia dei dadi azione, dei dadi carica e così via con qualche altra forma di gettone (come perle di vetro o fiches da poker) o scrivendo i numeri che cambiano all'interno dei cerchi usando matite e gomme. Questo funziona bene, ma non è così intuitivo e rallenta un po' il gioco.
 
-Avrete anche bisogno di un paio di gettoni per rappresentare gli Gettoni Meraviglia durante i conflitti.
+Avrete anche bisogno di un paio di gettoni per rappresentare gli Gettoni Prodezza durante i conflitti.
 Potete usare qualsiasi cosa per questi, dalle monete ai bottoni.
 
 ### Responsabilità dei giocatori e del GM
