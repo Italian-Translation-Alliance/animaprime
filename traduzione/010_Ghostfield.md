@@ -172,3 +172,16 @@ Spesso la miglior manovra possibile consiste nell'agire senza essere visto fino 
 
 **Veicoli**  
 Alcuni personaggi devono avere determinati veicoli per usare questa competenza. Questi possono essere di dimensioni contenute (come dei rollerblade) o arrivare alle dimensioni di un aeronave. Questa competenza consente inoltre di sfruttare la conoscenza dei veicoli e dei loro punti deboli quando li si affronta. Suggerisco l'uso di questa competenza solamente quando i PG hanno sempre a disposizione un veicolo (come anche un'armatura potenziata), o ne abbiano un'ampia disponibilità a portata di mano. La maggior parte delle volte, i nemici che utilizzano un veicolo sfrutteranno questa competenza.
+
+## Poteri  
+
+Per quanto non siano diffusi, i poteri non sono comunque rari. Tuttavia, possedere una diversa agmma di poteri come i PG è privilegio di pochi. Considerando sia i territori di Enendia che di Kanissia, ci saranno circa una dozzina di individui allo stesso livello dei PG o più forti.
+
+Nel Ghostfield i poteri si dividono in diverse categorie: poteri passici, poteri caricati, armi spirituali e poteri di evocazione.
+
+I **poteri passivi** sono sempre in funzione e non necessitano dell'impiego di alcun dado di carica.
+
+I **poteri caricati** sono contraddistinti da una tipologia specifica, che indica se il potere è di per se un'azione o vada a modificare un attacco, una manovra, o potenzi altri poteri. Potete potenziare una singola azione con tanti poteri che non siano azioni quanti siete in grado di pagarne l'attivazione, con le eccezioni indicate.
+
+Le **armi spirituali** e i **poteri di evocazione**, sono contraddistinti sia da poteri passivi che da poteri caricati, ma necessitano ognuno di un capitolo a parte in quanto sottostanno a delle regole specifiche. Inoltre, alcuni personaggi (come gli eidolon) possono disporre solamente di poteri passivi o poteri caricati, ma non di armi spirituali o poteri di evocazione.
+
