@@ -111,3 +111,5 @@ Di seguito verrà descritta ciascuna competenza, assieme a dei suggerimenti rigu
 
 Spesso, può capitare che le competenze si sovrappongano. Ad esempio, è possibile compiere una determinata manovra usando Acrobazia, Audacia o Prontezza. In questi casi, è la competenza usata che contribuirà a definire che tipo sia il personaggio e quale stile di combattimento lo contraddistingue. Non lasciate che il nome delle competenze o il modo in cui si sovrappongono limiti la vostra immaginazione nel descrivere una manovra.
 
+### Descrizione delle Competenze
+
