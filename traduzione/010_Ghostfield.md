@@ -111,5 +111,64 @@ Di seguito verrà descritta ciascuna competenza, assieme a dei suggerimenti rigu
 
 Spesso, può capitare che le competenze si sovrappongano. Ad esempio, è possibile compiere una determinata manovra usando Acrobazia, Audacia o Prontezza. In questi casi, è la competenza usata che contribuirà a definire che tipo sia il personaggio e quale stile di combattimento lo contraddistingue. Non lasciate che il nome delle competenze o il modo in cui si sovrappongono limiti la vostra immaginazione nel descrivere una manovra.
 
-### Descrizione delle Competenze
+### Descrizione delle Competenze  
 
+**Acrobazia**  
+Un'ampia gamma di competenze utilizzabile in diversi modi. Include saltare, rimbalzare da un muro all'altro, arrampicarsi su di una struttura (o un nemico), salti mortali che oltrepassano un vaporbot, e qualsiasi altra simile bravata. Se siete giocatori novizi, vi suggerisco di acquisire questa competenza di facile utilizzo.
+
+**Aggeggi**  
+I personaggi con questa competenza sono maestri nell'avere il giusto attrezzo per il lavoro sbagliato. Possiedono la capacità di produrre o immagazzinare dozzine di piccoli arnesi che possono essere utili in molti modi, che siano semplici come un piede di porco o complessi come un Vaporbot volante tascabile. Non è necessario che teniate un inventario dettagliato a riguardo; invece, siete in grado ci costruirli sul momento. Questa competenza funziona alla grande con determinate Armi Spirituali di modo da dare ai tuoi aggeggi una marcia in più.
+
+**Armi da fuoco**  
+Sebbene chiunque possa utilizzare una pistola, un personaggio con questa competenza vanta delle capacità speciali che vanno ben oltre il semplice sparare. Forse potrà colpire un nichelino da una distanza di una trentina di metri, o far rimbalzare i proiettili lungo i muri oltrepassando gli angoli, o ricaricare una mitragliatrice con una mano mentre con l'altra spara con tre pistole contemporaneamente facendole roteare in aria. Sei un artista, e le tue mani fanno veri e propri capolavori con le armi da fuoco.
+
+**Armi da mischia**  
+Se il tuo personaggio si sente nudo senza brandire una spada, lancia, mazza, pugnale, o arma simile, allora questa è la competenza che fa per lui. Si applica a qualsiasi arma utilizzata nel combattimento corpo a corpo (persino quando decidete di scagliarla , anche se potreste voler prendere la competenza Mira per questo). Sebbene chiunque sia in grado di sventagliare una spada, i personaggi con questa competenza possiedono capacità incredibili. Forse sono in grado di deflettere i proiettili, o scalare una parete usando i pugnali, o brandire spade delle dimensioni di un tronco d'albero. Qualsiasi bravata che comporti l'uso di tali armi fa parte del repertorio del personaggio.
+
+**Audacia**  
+Spesso è possibile compiere azioni notevoli semplicemente provandoci. Audacia permette al tuo personaggio di affrontare risolutamente il pericolo, convincere gli alleati a seguirlo, e compiere azioni che altri riterrebbero impossibili, solamente dominando la paura. Una manovra che utilizzi Audacia varia dal gettarsi a capofitto incontro al pericolo (Ovviamente con la giusta inquadratura) al saltare da un edificio per atterrare sulle spalle di un vaporbot.
+
+**Esplosivi**  
+Se esplode, sapete come sfruttarlo al meglio. Questa competenza comprende l'uso di granate, mine, bombe molotov, lanciarazzi, esplosivi fatti in casa, barili di combustibile, o qualsiasi cosa simile. Non solo siete in gradi di crearli e utilizzarli, ma potete persino rivolgere gli esplosivi nemici contro di loro.
+
+**Fortuna**  
+Ad alcuni personaggi capitano le cose migliori. Quando un edificio gli crolla addosso, si trovano nello spazio occupato da una finestra aperta. Quando una raffica di proiettili li attraversa, colpiscono semplicemente il muro alle loro spalle, senza ferirli minimamente. Questo tipo di fortuna non è comunque infallibile, ma si rivela assai utile. Quando utilizzate Fortuna durante una manovra, descrivete semplicemente qualcosa di improbabile che capita aiutando il vostro personaggio.
+
+**Forza**  
+Seleziona questa competenza se vuoi che il tuo personaggio sia uno degli individui più forti al mondo. Consente al tuo personaggio di compiere manovre basate su un incredibile sfoggio di forza fisica, come scagliare un nemico addosso agli altri attraverso il campo di battaglia (e funziona pure meglio se hai anche la competenza Mira), lottare con un vaporbot, o far cadere un albero addosso ai tuoi avversari.
+
+**Fuorviare**  
+Spesso la strategia migliore consiste nel persuadere il nemico e fargli credere di sapere cosa tu stia per fare. Poi, ovviamente, farai qualcosa del tutto insapettato. Fuorviare è qualcosa che tutti i personaggi sono in grado di fare, ma quelli che vantano tale competenza ne hanno fatto una forma d'arte; nessuno è in grado di prevedere cosa stiano per fare.
+
+**Gioco Sporco**  
+Avete presenti il personaggio che getta della sabbia negli occhi della gente, infila una granata nell'armatura di un comandante, o sfrutta i soldati avversari come scudo umano? Bene, se scegliete questa compentenza, allora quello è il vostro PG. Il personaggio necessita di un certa indole per poterlo fare, una visione alquanto malleabile dell'onore in combattimento. E voi dovrete essere in grado di saper improvvisare per sfruttare al meglio questa competenza. Oppure, potreste semplicemente chiedere suggerimento ai vostri compagni riguardo alla manovra.
+
+**Ingegneria**  
+Solitamente, sfruttate le vostre competenze per creare oggetti. Ma in caso di necessità, quando qualcuno tenta di ferire voi o i vostri amici, non esitate a sfruttare le vostre competenze ingegneristiche per sfruttare il punto debole di un veicolo, lanciare un utensile nei suoi ingranaggi, o modificare il lanciafiamme esploso di un vaporbot per renderlo un'arma di distruzione improvvisata. E se vi trovate ad affrontare umani o abomini, potrete sempre colpirli con una chiave inglese, o utilizzare la vostra sparachiodi per fissare i loro abiti al muro più vicino.
+
+**Intimidire**  
+Alcuni personaggi sono decisamente spaventosi, e quelli con questa competenza sono pure peggio. Intimidire viene usata per tenere a bada i nemici, adocchiarli dall'alto in basso, spaventarli, o comunque influenzarli tramite la postura, minaccie verbali, e sguardi intensi. Persino vaporbot e altri costrutti possono essere intimiditi. In questi casi, la competenza funziona come Fuorviare ma sfruttando la violenza; l'effetto si ottiene non facendo credere all'aversario di stare per fare altro, ma assicurandosi che sappia esattamenta cosa gli capiterà non appena gli metterete le mani addosso.
+
+**Lotta**  
+I personaggi che vantano tale competenza tendono ad affrontare fisicamente i loro nemici. Utilizzando pugni, calci volanti, mosse di wrestling, gomitate, rovesciate, sbattendoci contro o sfruttando qualsiasi altro attacco che non comporti l'uso di altre armi oltre a quelle naturali.
+
+**Mira**  
+I personaggi con Armi da Mischia possono a volte scagliarle. I personaggi con Forza possono lanciare persone o alberi. Ma i personaggi con la competenza Mira sono imbattibili nello scagliare qualsiasi abbiano a portata di mano con una precisione incredibile. Che siano coltelli da lancio, pietre raccolte dal terreno, o quell'oggetto da lanciare in mano al tuo alleato percorrendo una distanza di 60 metri, se possiedi questa competenza, sei in grado di colpire qualsiasi bersaglio con qualsiasi cosa.
+
+**Percezione**  
+I personaggi con questa competenza hanno affinato la loro eprcezione a livelli sovraumani. forse sono in grado di scorgere dettagli minuscoli da distanze notevoli, o agire alla cieca come se potessero vedere (potreste voler prendere anche il potere Scurovisione per complementare), o individuano la posizione nemica grazie alle vibrazioni del terreno, oppure rallentano il tempo nella loro mente per poter notare tutto ciò che accade loro intorno. La gamma di manovre che è possibile compiere pecependo cose che altri personaggi ignorano è vasta, specialmente durante una battaglia.
+
+**Prontezza**  
+Certo, alcuni individui sono veloci. Ma i personaggi che vantano questa competenza non solo li surclassano, ma sono pure incredibilmente coordinati. Usare Prontezza in una manovra permette a un personaggio di schivare missili, muoversi facilmente attraverso un'orda di nemici, o correre lungo la parete di un edificio (o un vaporbot).
+
+**Resistenza**  
+Alcuni personaggi vantano una maggiore resistenza fisica e sono in grado di sostenere uno sforzo maggiore rispetto ad altri. I personaggi con questa competenza possono usarla per trarne vantaggio in battaglia. Possono lanciarsi alla carica nonostante dell'acido gli piova addosso, o rialzarsi talmente velocemente dopo essere stati gettati a terra da sorprendere il nemico, o fare da scudo agli alleati col proprio corpo. Potete inoltre selezionare Possanza, Resilienza e Tutela per ottenere i vantaggi derivati dalla sinergia di tali poteri.
+
+**Scherno**  
+I personaggi con questa competenza sono in grado di far infuriare gli avversari al punto da fargli commettere delgi errori. In alcuni casi, Scherno funziona come un misto di Gioco Sporco e Fuorviare. Persino i vaporbot non sono immuni dall'essere attirati in trappola da qualcuno che continua a saltare su e giù, gesticolando e  scagliando insulti in direzione del semovente ammasso di immondizia. Tenete comunque conto che questa competenza tende a rendere il gioco più comico, assicuratevi quindi che si adatti al tono che avete concordato.
+
+**Sotterfugio**  
+Spesso la miglior manovra possibile consiste nell'agire senza essere visto fino al momento in cui si è pronti a colpire. I personaggi con la competenza Sotterfugio sono in grado di sparire imrpovvisamene alla vista persino durante una battaglia, muoversi senza emettere alcun rumore, o attaccare dalle ombre.
+
+**Veicoli**  
+Alcuni personaggi devono avere determinati veicoli per usare questa competenza. Questi possono essere di dimensioni contenute (come dei rollerblade) o arrivare alle dimensioni di un aeronave. Questa competenza consente inoltre di sfruttare la conoscenza dei veicoli e dei loro punti deboli quando li si affronta. Suggerisco l'uso di questa competenza solamente quando i PG hanno sempre a disposizione un veicolo (come anche un'armatura potenziata), o ne abbiano un'ampia disponibilità a portata di mano. La maggior parte delle volte, i nemici che utilizzano un veicolo sfrutteranno questa competenza.
