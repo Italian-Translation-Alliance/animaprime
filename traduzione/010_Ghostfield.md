@@ -185,3 +185,17 @@ I **poteri caricati** sono contraddistinti da una tipologia specifica, che indic
 
 Le **armi spirituali** e i **poteri di evocazione**, sono contraddistinti sia da poteri passivi che da poteri caricati, ma necessitano ognuno di un capitolo a parte in quanto sottostanno a delle regole specifiche. Inoltre, alcuni personaggi (come gli eidolon) possono disporre solamente di poteri passivi o poteri caricati, ma non di armi spirituali o poteri di evocazione.
 
+### Scegliere i poteri alla creazione del personaggio  
+
+A meno che non venga specificato diversamente, è possibile selezionare un determinato potere una volta soltanto. Tale regola si appplica a tutti i poteri indipendentemente dalla categoria.  
+
+Alcuni poteri ed effetti delle armi infliggono determinate condizioni ai personaggi. Tali condizioni verranno illustrate nel capitolo 15. Potreste volerci dare un occhio prima di scegliere il relativo potere.
+
+Quando scegliete i poteri per il vostro personaggio, assicuratevi di includere alcuni poteri caricati di modo da poter utilizzare i dadi di carica che otterrete inevitabilmente durante un conflitto. I pacchetti di potere presenti nel capitolo di creazione del personaggio rappresentano ottime basi da cui partire. Contengono tutti alcuni poteri caricati così come delle difese decenti.  
+
+Inoltre, è bene coordinarvi coi vostri compagni PG. Molti poteri funzionano al meglio in congiunzione con quaelli scelti da altri giocatori, come ad esempio Comando e Squadriglia Tattica.  
+
+Infine, i nemici non sono limitati ai poteri elencato. Il GM è libero di creare per loro nuovi poteri o modificare quelli descritti (riducendo il costo in dadi di carica, facendo in modo che influenzino tutti i PG contemporaneamente, ecc...). Un esempio interessante potrebbe essere una sorta di "Resistenza ai Danni Non-Elementali" che aumenta la difesa dell'avversario solamente contro attacchi che non siano basati su fuoco, gelo o elettricità, e che ricompenserebbe i PG che utilizzassero i poteri caricati di tipo elementale (o gli obbiettivi). Potete trovare alcuni esempi di peculiari poteri per gli avversari nel capitolo 16.  
+
+
+
