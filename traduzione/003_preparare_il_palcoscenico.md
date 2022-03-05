@@ -30,3 +30,13 @@ Se vedete che uno dei vostri compagni di gioco ha una reazione negativa, dovrest
 
 In definitiva, è una buona idea ripensare alla vostra discussione sul tono e il contenuto di tanto in tanto. Aiuterà a dare al vostro gioco un focus coerente e ad evitare che qualcuno si senta infastidito, ferito, annoiato o comunque a disagio.
 
+## Scegliere un'ambientazione
+
+L'ambientazione fa da sfondo alla vostra storia. Include un concetto di base ed individua alcuni luoghi, PNG, gruppi influenti, poteri speciali, il livello di tecnologia, le diverse culture e così via. È nel contesto dell'ambientazione che si muovono i PG. L'ambientazione spesso include anche degli ostacoli per i PG, anche se sarebbe opportuno aggiungere delle avversità proprie dei PG in base ai loro legami e agli spunti.
+
+Per esempio, l'ambientazione di *Vampire Hunter D* è il lontano futuro, in cui i vampiri hanno schiavizzato l'umanità. Vediamo solo un'istantanea di quel mondo, una città e i vicini covi di vampiri e demoni, quindi l'ambientazione definita è piuttosto piccola, ma si potrebbero facilmente inventare luoghi e persone dal tono e dall'ispirazione di ciò che è presente. I vampiri e i loro tirapiedi demoniaci sono l'avversità di base.
+
+L'ambientazione di *Avatar*, d'altra parte, è un mondo completamente diverso con quattro nazioni basate sugli elementi naturali e un sacco di PNG, città e leggende del passato. Questi elementi vengono introdotti poco a poco nel corso della serie, cosa che si può fare con sviluppo spontaneo dell'ambientazione. I dominatori del fuoco sono l'avversità principale in questa ambientazione.
+
+L'ambientazione predefinita di Anima Prime è nota come Ghostfield, così come descritta nei capitoli da 10 a 16. Le istruzioni per crearne una propria sono incluse nel Capitolo 17. Anche se suggerisco di iniziare usando Ghostfield, ci sono centinaia di mondi in cui potete ambientare il vostro gioco. Questi mondi sono colmi di tutti i tipi di culture e creature. Potete usare uno qualsiasi di questi mondi, o anche solo un frammento di uno, e non dovete preoccuparvi di farlo "male". Poi potete svilupparlo mentre giocate, spontaneamente. Date un'occhiata anche ai videogiochi di Final Fantasy, che quasi sempre introducono un'ambientazione completamente nuova ad ogni iterazione e la sviluppano mentre la storia progredisce.
+
