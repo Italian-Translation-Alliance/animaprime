@@ -40,3 +40,16 @@ L'ambientazione di *Avatar*, d'altra parte, è un mondo completamente diverso co
 
 L'ambientazione predefinita di Anima Prime è nota come Ghostfield, così come descritta nei capitoli da 10 a 16. Le istruzioni per crearne una propria sono incluse nel Capitolo 17. Anche se suggerisco di iniziare usando Ghostfield, ci sono centinaia di mondi in cui potete ambientare il vostro gioco. Questi mondi sono colmi di tutti i tipi di culture e creature. Potete usare uno qualsiasi di questi mondi, o anche solo un frammento di uno, e non dovete preoccuparvi di farlo "male". Poi potete svilupparlo mentre giocate, spontaneamente. Date un'occhiata anche ai videogiochi di Final Fantasy, che quasi sempre introducono un'ambientazione completamente nuova ad ogni iterazione e la sviluppano mentre la storia progredisce.
 
+Le ambientazioni in Anima Prime dovrebbero essere evocative piuttosto che canoniche. Ciò significa che non ci saranno pagine su pagine di informazioni che dovreste memorizzare e poi ricordare durante la partita. Questo è un gioco spontaneo, dopotutto, e dovreste essere in grado di giocare senza quel tipo di lavoro di preparazione e con la capacità di inventare i dettagli dell'ambientazione durante la partita. Questa è la *vostra* fantasia, la *vostra* storia, il *vostro* gioco. Per questo, vi suggerisco di fare anche la vostra ambientazione. Quindi, anche se giocate usando Ghostfield, non esitate ad aggiungere spontaneamente i vostri luoghi, persone ed eventi al mix.
+
+Quando scegliete la vostra ambientazione, dovreste capire come interagisce con il tono che avete scelto. Alcune ambientazione sono più orientate verso determinati toni rispetto ad altre. Anche i poteri disponibili nell'ambientazione dovrebbero adattarsi.
+
+Il mio gruppo decide di sviluppare l'ambientazione da solo. Inizieremo con uno abbozzo molto approssimativo e riempiremo semplicemente gli spazi vuoti mentre giochiamo.
+
+Il nostro gioco "crudo" sarà ambientato in un mondo post-apocalittico. C'è un sacco di terra desolata, piena di rovine con oggetti preziosi di epoche precedenti. Ciò significa che esiste ancora la tecnologia del 20° secolo in giro, ma è rara.
+
+Ci sono demoni nella nostra ambientazione. Non sono solo mutanti, ma qualcosa di ultraterreno che ha invaso e portato all'apocalisse. Ora vagano per le lande e ogni sopravvissuto deve essere pronto a combatterli o trovare altri che lo protegga. Le comunità sono piccole, i fuorilegge abbondano e così via. È un posto pericoloso con molte opportunità di conflitti.
+
+Questo tipo di ambientazione ci consente di iniziare senza dettagliare molto in anticipo, perché si basa su un tropo comune e non ha entità politiche o società sovrastanti di cui preoccuparsi.
+
+Utilizzeremo tutti i poteri dell'ambientazione Ghostfield, meno Evocazione e quelli relativi all'Altrove (Varco, Balzo e così via).
