@@ -10,6 +10,8 @@ In questo gioco, tutti i giocatori del vostro gruppo si siederanno intorno a un 
 
 Ecco un esempio di come potrebbe essere il gioco di ruolo quando due giocatori sono coinvolti in una scena intercorsa tra i loro personaggi protagonisti. Zoe imposterà la scena e interpreterà il suo personaggio Syjika, mentre Alan interpreterà il suo personaggio Egere. Se siete curiosi, potete trovare le schede dei personaggi con tutte le informazioni per entrambi i personaggi sul sito web. Leggete questo esempio come un dialogo tra i giocatori.
 
+<div class="dialogo"></div>
+
 Zoe 
 :  Syjika è seduta sul relitto della nave a vapore, circondata dalle rovine ancora fumanti delle case distrutte nella battaglia. Sta armeggiando con uno degli arnesi che ha usato nella battaglia. Accanto a lei c'è uno sportello aperto nella nave da cui ha estratto alcune parti.
 
@@ -73,6 +75,8 @@ I giocatori possono anche descrivere gli effetti dei loro PG su alcuni PNG in va
 ### Esempio
 
 Quello che segue è un esempio di due giocatori e il GM (Maura) che giocano insieme.
+
+<div class="dialogo"></div>
 
 Alan 
 :  Allora... Egere si sta dirigendo verso le guardie della città.
