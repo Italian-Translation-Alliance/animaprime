@@ -6,35 +6,49 @@ Il gioco di ruolo ha le sue radici storiche nei giochi di guerra in miniatura, m
 
 In questo gioco, tutti i giocatori del vostro gruppo si siederanno intorno a un tavolo (o in un altro posto che sia comodo e che abbia una superficie per tirare i dadi). Un giocatore alla volta deve contribuire ad una storia che state creando insieme. Tutti i giocatori immaginano cosa sta succedendo e poi reagiscono. La maggior parte dei giocatori è responsabile di uno specifico personaggio della storia e tutti insieme costituiscono il gruppo dei protagonisti, mentre il moderatore del gioco è responsabile dei nemici dei protagonisti, dei personaggi minori e del resto del mondo.
 
-**Esempio**
+### Esempio
 
 Ecco un esempio di come potrebbe essere il gioco di ruolo quando due giocatori sono coinvolti in una scena intercorsa tra i loro personaggi protagonisti. Zoe imposterà la scena e interpreterà il suo personaggio Syjika, mentre Alan interpreterà il suo personaggio Egere. Se siete curiosi, potete trovare le schede dei personaggi con tutte le informazioni per entrambi i personaggi sul sito web. Leggete questo esempio come un dialogo tra i giocatori.
- 
 
-Zoe: Syjika è seduta sul relitto della nave a vapore, circondata dalle rovine ancora fumanti delle case distrutte nella battaglia. Sta armeggiando con uno degli arnesi che ha usato nella battaglia. Accanto a lei c'è uno sportello aperto nella nave da cui ha estratto alcune parti.
+<div class="dialogo">
 
-Alan: Egere la guarda dalla strada sottostante. Lui la chiama: "Dobbiamo andare".
+Zoe: 
+:  Syjika è seduta sul relitto della nave a vapore, circondata dalle rovine ancora fumanti delle case distrutte nella battaglia. Sta armeggiando con uno degli arnesi che ha usato nella battaglia. Accanto a lei c'è uno sportello aperto nella nave da cui ha estratto alcune parti.
 
-Zoe: Non alza nemmeno lo sguardo dal suo piccolo dispositivo mentre si morde il labbro e con molta attenzione inserisce un piccolo cacciavite in una fessura. Dice: "Non ancora. Devo prima sistemarlo".
+Alan: 
+:  Egere la guarda dalla strada sottostante. Lui la chiama: "Dobbiamo andare".
 
-Alan: Guarda sopra la sua spalla in direzione dei passi meccanici in arrivo, che stanno facendo tremare il terreno sotto di lui. "No, davvero. Dobbiamo andare".
+Zoe: 
+:  Non alza nemmeno lo sguardo dal suo piccolo dispositivo mentre si morde il labbro e con molta attenzione inserisce un piccolo cacciavite in una fessura. Dice: "Non ancora. Devo prima sistemarlo".
 
-Zoe: Syjika impreca sottovoce mentre rompe qualcosa nel suo arnese. Dice: "Sei sempre di fretta. Lasciami in pace per un minuto".
+Alan: 
+:  Guarda sopra la sua spalla in direzione dei passi meccanici in arrivo, che stanno facendo tremare il terreno sotto di lui. "No, davvero. Dobbiamo andare".
 
+Zoe: 
+:  Syjika impreca sottovoce mentre rompe qualcosa nel suo arnese. Dice: "Sei sempre di fretta. Lasciami in pace per un minuto".
 
-Alan: "Le guardie della città stanno arrivando. Non credo che saranno molto felici di vedere che abbiamo trasformato la loro costosa nave a vapore nel tuo banco di lavoro privato".
+Alan: 
+:  "Le guardie della città stanno arrivando. Non credo che saranno molto felici di vedere che abbiamo trasformato la loro costosa nave a vapore nel tuo banco di lavoro privato".
 
-Zoe: "Non puoi semplicemente andare a parlare con loro o qualcosa del genere?"
-s
-Alan: Egere si guarda di nuovo intorno e fa un respiro profondo come il vicolo. "Parlare con loro. Certo. Nessun problema".
+Zoe: 
+:  "Non puoi semplicemente andare a parlare con loro o qualcosa del genere?"
 
-Zoe: I suoi grandi occhi alzano per un momento lo sguardo su di lui e dice: "Grazie! Lo apprezzo davvero".
+Alan: 
+:  Egere si guarda di nuovo intorno e fa un respiro profondo come il vicolo. "Parlare con loro. Certo. Nessun problema".
 
-Alan: Egere annuisce e si dirige verso le guardie. "Qualsiasi cosa per te", borbotta tranquillamente. Nuvole di ombre si formano intorno ai suoi pugni, come fumo nero. Richiama. "Oh, e Syjika?"
+Zoe: 
+:  I suoi grandi occhi alzano per un momento lo sguardo su di lui e dice: "Grazie! Lo apprezzo davvero".
 
-Zoe: "Si'?
+Alan: 
+:  Egere annuisce e si dirige verso le guardie. "Qualsiasi cosa per te", borbotta tranquillamente. Nuvole di ombre si formano intorno ai suoi pugni, come fumo nero. Richiama. "Oh, e Syjika?"
 
-Alan: "Spero che tu abbia degli occhiali per la visione notturna nel tuo zaino".
+Zoe: 
+:  "Si'?
+
+Alan: 
+:  "Spero che tu abbia degli occhiali per la visione notturna nel tuo zaino".
+
+</div>
 
 ## Chi determina cosa?
 
@@ -60,35 +74,52 @@ Finché qualcosa è ragionevole, i giocatori possono descriverlo come esistente 
 
 I giocatori possono anche descrivere gli effetti dei loro PG su alcuni PNG in varia misura; i dettagli di questo sono inclusi nella sezione sulle manovre nel capitolo sul conflitto.
 
-**Esempio**
+### Esempio
 
 Quello che segue è un esempio di due giocatori e il GM (Maura) che giocano insieme.
 
-Alan: Allora... Egere si sta dirigendo verso le guardie della città.
+<div class="dialogo">
 
-Maura: Bene. Ce ne sono una dozzina, completamente armati con tute da battaglia alimentate a vapore. Si possono vedere i loro volti attraverso gli elmetti a forma di scodella attraversati da barre di rinforzo in metallo. Uno di loro ha un grado superiore, a giudicare dalle insegne rosse sul petto.  Sono armati	e sembrano piuttosto ostili.
+Alan: 
+:  Allora... Egere si sta dirigendo verso le guardie della città.
 
-Alan: Grande, e abbiamo avuto solo una scena per riprenderci dopo l'ultimo combattimento.  Va bene, c'è una carrozza da qualche parte là vicino?
+Maura: 
+:  Bene. Ce ne sono una dozzina, completamente armati con tute da battaglia alimentate a vapore. Si possono vedere i loro volti attraverso gli elmetti a forma di scodella attraversati da barre di rinforzo in metallo. Uno di loro ha un grado superiore, a giudicare dalle insegne rosse sul petto.  Sono armati	e sembrano piuttosto ostili.
 
-Maura: Questo dipende da te. Sei nel mezzo della città, quindi sembra plausibile.
+Alan: 
+:  Grande, e abbiamo avuto solo una scena per riprenderci dopo l'ultimo combattimento.  Va bene, c'è una carrozza da qualche parte là vicino?
 
-Alan: Oh sì. Salto su una carrozza e allargo le braccia. Grido: "La guardia cittadina! I protettori di tutto ciò che è buono e giusto! Sono così felice che siate qui".
+Maura: 
+:  Questo dipende da te. Sei nel mezzo della città, quindi sembra plausibile.
 
-Maura: Il capo si fa avanti e ti guarda attentamente mentre le altre guardie puntano le loro armi su di te.  Dice: "Sei	in arresto. Arrenditi pacificamente e nessuno si farà male".
+Alan: 
+:  Oh sì. Salto su una carrozza e allargo le braccia. Grido: "La guardia cittadina! I protettori di tutto ciò che è buono e giusto! Sono così felice che siate qui".
 
-Alan: Immagino che non sia ancora passato un minuto, eh?
+Maura: 
+:  Il capo si fa avanti e ti guarda attentamente mentre le altre guardie puntano le loro armi su di te.  Dice: "Sei	in arresto. Arrenditi pacificamente e nessuno si farà male".
 
-Zoe: Hah, sì, Syjika è ancora seduta su quella nave a vapore, a sistemare la sua cosa. Ci sono dei soldati vicino a lei?
+Alan: 
+:  Immagino che non sia ancora passato un minuto, eh?
 
-Maura: No, sono tutti con Egere.
+Zoe: 
+:  Hah, sì, Syjika è ancora seduta su quella nave a vapore, a sistemare la sua cosa. Ci sono dei soldati vicino a lei?
 
-Zoe: Allora continuerò a fare le mie cose. Può occuparsi lui di loro.	
+Maura: 
+:  No, sono tutti con Egere.
 
-Alan: Ok, allora... com'è il tempo?
+Zoe: 
+:  Allora continuerò a fare le mie cose. Può occuparsi lui di loro.	
 
-Maura: Credo che abbiamo detto prima che c'è il sole e c'è luce.  Un bel pomeriggio di primavera.
+Alan: 
+:  Ok, allora... com'è il tempo?
 
-Alan: Perfetto. Li colpirò con Oscurità.
+Maura: 
+:  Credo che abbiamo detto prima che c'è il sole e c'è luce.  Un bel pomeriggio di primavera.
+
+Alan: 
+:  Perfetto. Li colpirò con Oscurità.
+
+</div>
 
 Come avrete notato, a volte i giocatori si riferiscono ai loro personaggi come "io" o "noi". Questa è un'abitudine che potete adottare o meno, come vi pare. Il più delle volte, è solo un'utile stenografia per dire "il mio personaggio" o "tutti i PG".
 
