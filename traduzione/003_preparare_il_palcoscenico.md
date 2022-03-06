@@ -53,3 +53,34 @@ Ci sono demoni nella nostra ambientazione. Non sono solo mutanti, ma qualcosa di
 Questo tipo di ambientazione ci consente di iniziare senza dettagliare molto in anticipo, perché si basa su un tropo comune e non ha entità politiche o società sovrastanti di cui preoccuparsi.
 
 Utilizzeremo tutti i poteri dell'ambientazione Ghostfield, meno Evocazione e quelli relativi all'Altrove (Varco, Balzo e così via).
+
+## Spunti di ambientazione
+
+Gli spunti di ambientazione sono elencati nell'ambientazione predefinita o creati dal GM. Gli spunti sono avvenimenti nell'ambientazione che remano contro gli eventi usuali. Possono variare dal palesemente ovvio e aggressivo (una forza d'invasione) al sottile (l'acqua del fiume ha iniziato ad avere un sapore metallico) allo strano e sinistro (un grattacielo nero è appena apparso nel mezzo della città e la maggior parte delle persone si comporta come se fosse sempre stato lì).
+
+Sentitevi liberi di crearne più di uno se volete dare ai giocatori molte scelte su cosa indagare durante la partita, anche se questo potrebbe rendere il vostro gioco meno focalizzato. Siate consapevoli del fatto che questo non è uno spunto di gruppo -- non può essere qualcosa che colpisce direttamente e solamente i PG come gli altri spunti della storia. È invece qualcosa che rende l'intera ambientazione dinamica e mutevole e consente ai giocatori di scegliere se vogliono contribuire a plasmare quei cambiamenti.
+
+*Il GM ci dice che lo spunto della storia per la nostra ambientazione desolato è il seguente: qualcuno ha iniziato a radunare demoni e seguaci umani in una grande città in rovina. Nessuno sa perché si raggruppino o cosa stiano pianificando, ma qualcosa sta per accadere.*
+
+*Anche il GM non sa ancora perché tutto questo stia accadendo. Sono sicuro che ci saranno modi per collegarlo allo spunto del nostro gruppo e agli eventi della nostra storia in seguito. Fino a quando i nostri PG non saranno coinvolti attivamente, non c'è bisogno di arricchirlo ulteriormente. Potremmo non arrivare mai in quella città e ignorare lo spunto, o potremmo decidere di finirci in mezzo -- dipende da noi.*
+
+## Spunti di gruppo
+
+Il seme della storia di gruppo viene creato da tutti i giocatori (tranne il GM) per il loro gruppo di PG. È un evento che cambia le circostanze del gruppo e le tiene unite. Può essere una cosa semplice e banale (al nostro gruppo di soldati d'élite è stato appena assegnato un nuovo ufficiale in comando e non ci fidiamo di lui), un mistero (ci siamo svegliati tutti con i tatuaggi cremisi abbinati sulla nuca), un disastro (l'organizzazione che ha protetto la nostra identità e ci ha permesso di vivere una vita normale è stata semplicemente spazzata via), o qualsiasi cosa che il gruppo nel suo insieme deve affrontare.
+
+Usalo come strumento per assicurarti che il gruppo abbia una buona ragione per restare unito e trovare un terreno comune su cui agire. Di solito questo seme viene creato prima dei personaggi, in modo che tu possa creare i PG da inserire nel seme. Ma puoi anche crearlo in seguito, il che richiede un po' di armeggiare e la volontà di ogni giocatore di modificare un po' i propri PC per adattarlo tutto.
+
+Il seme della storia di gruppo funge da "crogiolo" per i PG. È il motivo per cui restano uniti anche se hanno interessi divergenti o hanno problemi di personalità l'uno con l'altro (il che rende un buon gioco di ruolo drammatico durante le scene dei personaggi).
+
+Più forte è il seme, più i PG possono lottare al suo interno (tutto divertendosi, ovviamente). Esempi di semi di storie di gruppo forti hanno spesso uno o più dei seguenti ingredienti:
+- I PG condividono un potente nemico che non possono sconfiggere da soli. Stanno attivamente dando la caccia al nemico o viceversa.
+- Si è presentata un'opportunità per ottenere qualcosa che i PG desiderano o di cui hanno disperatamente bisogno, e possono solo metterla insieme.
+- I PG sono insieme in una situazione dalla quale non possono scappare, o perché sono fisicamente vincolati o perché la loro personalità non li lascia indietreggiare.
+- Un'autorità superiore ha chiamato i PG e ha ordinato loro di lavorare insieme. Ciò richiede o un forte senso del dovere da parte dei pg, o un'autorità che punisca severamente l'insubordinazione. Grandi storie possono venire fuori dal liberarsi finalmente dall'autorità insieme.
+- I PG sono legati tra loro da relazioni quasi indistruttibili. Relazioni familiari, amore, onore, dovere, giuramenti, debiti o qualcosa del genere.
+
+Quando il seme della tua storia di gruppo giunge al termine, come quando i PG scappano dalla loro situazione o sconfiggono il loro nemico comune, dovreste considerare tutti insieme se volete crearne uno nuovo con i personaggi esistenti o semplicemente ricominciare da capo con un nuovo gruppo di PC. A volte le loro esperienze condivise terranno uniti i personaggi da qui in poi e possono aiutarsi a vicenda con i semi della loro storia del personaggio. Ma altre volte avrai bisogno di qualcosa di nuovo per tenerli insieme e quel nuovo seme della storia di gruppo deve essere sviluppato dai giocatori su PC come prima. Puoi sempre decidere di saltare un anno o dieci prima che qualcosa rimetta insieme il gruppo.
+
+*Il nostro seme di gruppo è che facciamo tutti parte di una carovana attraverso la terra desolata quando viene quasi spazzata via dai demoni, e ora dobbiamo trovare e salvare le persone dalla nostra carovana che sono state rapite dai demoni.*
+
+*Questo seme ci fa entrare in azione. Abbiamo un obiettivo fin dall'inizio, qualcosa da fare che coinvolge direttamente i nostri PC. Tutti i PG che creiamo devono avere una ragione per essere sulla roulotte e per restare con il gruppo quando stiamo andando alla ricerca dei sopravvissuti. È responsabilità di ogni giocatore assicurarsi che il proprio PC soddisfi tali criteri*
