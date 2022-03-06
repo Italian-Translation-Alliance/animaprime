@@ -162,6 +162,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 
 > Adesso devo scegliere l'effetto dell'arma per Mietitore Silenzioso. Può sempre cambiarlo grazie al suo potere di Forgiaspirito, ma inizierò con Colpo Possente, che le permette di eliminare più facilmente i singoli bersagli. È adatto per un fucile da cecchino.
 
+<div class=archetipi markdown="1">
 
 ### Archetipi di base
 #### Autodidatta
@@ -345,6 +346,8 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Balzo
 - Vigore
 - Arma Spirituale (con effetto Pneumatica)
+
+</div>
 
 ## Retroscena e Legami
 
