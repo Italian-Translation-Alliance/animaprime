@@ -1,4 +1,4 @@
-# Preparare il palcoscenico
+# 3. Preparare il palcoscenico
 
 ## Tono e contenuto
 Il tono della vostra partita è importantissimo. Le regole non determinano se giocate una partita con un'ambientazione urbana fosca o un'avventura umoristica. Dovrebbe essere l'intero gruppo a discutere il tono atteso per la partita. Una volta deciso, dovreste cercare di tenerlo in considerazione quando sceglierete l'ambientazione, fate i personaggi, creati gli spunti e soprattutto mentre giocherete.
