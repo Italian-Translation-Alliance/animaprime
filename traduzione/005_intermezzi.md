@@ -35,90 +35,88 @@ Se il vostro personaggio ha già tutti i tratti marcati, tutte le ferite guarite
 ## Intermezzo di esempio
 Usiamo il personaggio di esempio che ho creato nel capitolo precedente, Zadie, e coinvolgiamola in una scena con Rasheem. Questa è la primissima scena del nostro gioco, e la usiamo per stabilire i personaggi prima che lo spunto del gruppo faccia effetto. Naturalmente, Zadie e Rasheem non hanno idea che la loro carovana sta per essere annientata. Il GM e gli altri giocatori all'inizio stanno a guardare, ma possono anche intervenire se si presenta una buona occasione.
 
-<div class="dialogo">
+<div class="dialogo"></div>
 
-Christian: 
+Christian 
 :  Mi piacerebbe avere una scena con Zadie e Rasheem in cui lei vede la collana per la prima volta.
 
-Daria: 
+Daria 
 :  Certo, facciamo in modo che Zadie sia in esplorazione e che Rasheem arrivi.
  
-Christian: 
+Christian 
 :  Daria: Ok. Zadie è sdraiata su un crinale, con il suo fidato fucile contro la spalla. Sta scrutando la valle davanti a sé attraverso il mirino del fucile.
 
-Daria: 
+Daria 
 :  Rasheem le arriva alle spalle.  Non è esattamente furtivo. L'elsa della sua enorme scimitarra sporge dalla sua spalla.
 
-Christian: 
+Christian 
 :  Zadie si gira sulla schiena e gli punta il fucile.
 
-Daria: 
+Daria 
 :  Lui alza le mani e dice: "Whoa. Non ce n'è bisogno".
 
-Christian: 
+Christian 
 :  Zadie fa un rumore di disapprovazione, come un ringhio. Abbassa il fucile e dice: "C'è se hai intenzione di fare tutto quel rumore e stare lì impalato. Attirerai tutti i demoni nel raggio di cinque miglia".
 
-Daria: 
+Daria 
 :  "Beh, allora è un bene che ci sia tu a farli fuori". Lui sorride in quel modo presuntuoso.
 
-Christian: 
+Christian 
 :  Lei pensa di sparargli.
 
-Daria: 
+Daria 
 :  Hah. Può provarci, se vuole.
 
-Christian: 
+Christian 
 :  Zadie lo guarda dall'alto verso il basso per vedere di che pasta è fatto. E poi vede la collana e il suo sguardo si fissa su di essa.
  
-Daria: 
+Daria 
 :  Rasheem le sorride e dice: "Vedi qualcosa che ti piace?"
 
-Christian: 
+Christian 
 :  Lei dice: "Dove l'hai presa?"
 
-Daria: 
+Daria 
 :  "Eh? Di cosa stai parlando?"
 
-Christian: 
+Christian 
 :  Si alza, si avvicina e prende la collana.
 
-Daria: 
+Daria 
 :  Beh... Rasheem la indossa, quindi non dipende da me se ci mette le mani sopra? Fa parte del mio personaggio.
 
-Christian: 
+Christian 
 :  Oh certo. Intendevo dire che lei ci mette la mano.
 
-Daria: 
+Daria 
 :  Ok. Beh... in realtà non gli dispiace, quindi non abbassa nemmeno lo sguardo quando la mano di lei ci si chiude sopra. Lui dice: "È una lunga storia".
 
-Christian: 
+Christian 
 :  "Penso che ora possiamo guadagnare tempo". Lei sembra molto irritata.
  
-Daria: 
+Daria 
 :  Penso che sarebbe bello se ora venisse fuori qualcosa per evitare che si intromettano. Non sono ancora sicura di quale sia la storia.
  
-Christian: 
+Christian 
 :  Oh, certo. GM?
 
-Maura: 
+Maura 
 :  Ah sì. Mentre Rasheem sta per rispondere, si sentono urla e grida alla carovana.
 
-Daria: 
+Daria 
 :  Dice: "Non credo che possiamo".
 
-Christian: 
+Christian
 :  Zadie lascia andare la collana e si precipita indietro verso la carovana.
 
-Maura: 
+Maura 
 :  Forte. Avremo presto un conflitto. Ma prima avrete un beneficio di intermezzo ciascuno.
 
-Christian: 
+Christian 
 :  Segno il mio tratto, "Diffidente di Rasheem".
 
-Daria: 
+Daria 
 :  E io segno "Attratto con riluttanza da Zadie".
 
-Maura: 
+Maura 
 :  Va bene. E ora potete combattere qualche demone insieme!
-
-</div>
