@@ -35,7 +35,7 @@ Se il vostro personaggio ha già tutti i tratti marcati, tutte le ferite guarite
 ## Intermezzo di esempio
 Usiamo il personaggio di esempio che ho creato nel capitolo precedente, Zadie, e coinvolgiamola in una scena con Rasheem. Questa è la primissima scena del nostro gioco, e la usiamo per stabilire i personaggi prima che lo spunto del gruppo faccia effetto. Naturalmente, Zadie e Rasheem non hanno idea che la loro carovana sta per essere annientata. Il GM e gli altri giocatori all'inizio stanno a guardare, ma possono anche intervenire se si presenta una buona occasione.
 
-<div class="dialogo"></div>
+<div class="dialogo" markdown="1">
 
 Christian 
 :  Mi piacerebbe avere una scena con Zadie e Rasheem in cui lei vede la collana per la prima volta.
@@ -120,3 +120,5 @@ Daria
 
 Maura 
 :  Va bene. E ora potete combattere qualche demone insieme!
+
+</div>
