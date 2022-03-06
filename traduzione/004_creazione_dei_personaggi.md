@@ -136,7 +136,7 @@ I poteri di **Carica** costano dadi di carica per essere utilizzati, che vengono
 
 Le **Armi Spirituali** sono una distinta raccolta di poteri che consentono ai personaggi di avere oggetti infusi con effetti specifici (in realtà non devono essere armi; possono essere pezzi di armatura, amuleti magici, spiriti guardiani, ecc.). Poiché queste armi sono spirituali, funzionano solo per il PG per il quale sono state create. I personaggi possono avere una o più armi e alcuni poteri consentono loro di modificare gli effetti durante il gioco. Se scegliete i poteri di Arma Spirituale, dovrete fare un passaggio aggiuntivo per capire quali siano gli effetti della vostra arma.
 
-L-**Evocazione** si occupa di vincolare creature (conosciute come *eidolons*) da altri mondi a voi stessi e di poterle evocare dalla vostra posizione attuale. I personaggi bonari hanno un vincolo  di amicizia e lealtà con queste creature, mentre altri le schiavizzano per eseguire i loro ordini. Se scegliete i poteri di evocazione, dovrete selezionare quali *eidolon* potete evocare, dall'elenco degli *eidolon* comuni in Ghostfield o inventando il vostro secondo le regole del Capitolo 14.
+L-**Evocazione** si occupa di vincolare creature (conosciute come *eidolons*) da altri mondi a voi stessi e di poterle evocare dalla vostra posizione attuale. I personaggi bonari hanno un legame  di amicizia e lealtà con queste creature, mentre altri le schiavizzano per eseguire i loro ordini. Se scegliete i poteri di evocazione, dovrete selezionare quali *eidolon* potete evocare, dall'elenco degli *eidolon* comuni in Ghostfield o inventando il vostro secondo le regole del Capitolo 14.
 
 È una buona idea avere almeno 1 o 2 poteri che consumano i dadi di carica. Altrimenti guadagnerete questi dadi durante i conflitti senza trarne alcun beneficio.
 
@@ -173,7 +173,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Manovra Potenziata
 - Resilienza
 
-#### Folgore
+#### Fulmineo
 <div class="archetipo"></div>
 
 - Scurovisione
@@ -351,19 +351,19 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 </div>
 
 
-## Retroscena e Vincoli
+## Retroscena e Legami
 
-I personaggi possono avere retroscena e vincoli indicati nelle loro schede personaggio. Se avete mai scritto un retroscena per un personaggio con gli eventi salienti del suo passato, avete steso un elenco dei contatti PNG del personaggio e così via, sapete cosa indicare qui.
+I personaggi possono avere retroscena e legami indicati nelle loro schede personaggio. Se avete mai scritto un retroscena per un personaggio con gli eventi salienti del suo passato, avete steso un elenco dei contatti PNG del personaggio e così via, sapete cosa indicare qui.
 
-C'è una grande differenza tra retroscena e vincoli: i retroscena sono la facoltà del giocatore di dare profondità al proprio personaggio, mentre i vincoli sono forniti come strumenti del GM.
+C'è una grande differenza tra retroscena e legami: i retroscena sono la facoltà del giocatore di dare profondità al proprio personaggio, mentre i legami sono forniti come strumenti del GM.
 
 Se il vostro personaggio ha un fratello perduto da tempo e lo inserite nel vostro retroscena, il GM non lo tirerà fuori durante la partita. Il fratello ha un ruolo utile per il vostro personaggio, ma non verrà utilizzato dal GM per scopi di trama.
 
-Se mettete vostro fratello sotto i vincoli, invece, date al GM il via libera per far apparire vostro fratello nel gioco come PNG. O forse troverete indizi su dove si trova. Oppure potreste trovare il suo cadavere. L'utilizzo di un vincolo dipende dal GM (anche se dovreste sentirti liberi di dare suggerimenti, ovviamente). Potete aggiungere o modificare retroscena e vincoli anche in un secondo momento, assicuratevi però di informare il GM in modo che possa utilizzare i nuovi vincoli (o smettere di usare quelli che avete rimosso).
+Se mettete vostro fratello sotto i legami, invece, date al GM il via libera per far apparire vostro fratello nel gioco come PNG. O forse troverete indizi su dove si trova. Oppure potreste trovare il suo cadavere. L'utilizzo di un legame dipende dal GM (anche se dovreste sentirti liberi di dare suggerimenti, ovviamente). Potete aggiungere o modificare retroscena e legami anche in un secondo momento, assicuratevi però di informare il GM in modo che possa utilizzare i nuovi legami (o smettere di usare quelli che avete rimosso).
 
-> Per prima cosa, il retroscena di Zadie. Anche i suoi genitori erano razziatori. Li metto nella sezione del retroscena perché non voglio avere a che fare con i genitori del mio personaggio nel gioco, ma sono ancora vivi da qualche parte e potrei spostarli in vincoli a un certo punto.
+> Per prima cosa, il retroscena di Zadie. Anche i suoi genitori erano razziatori. Li metto nella sezione del retroscena perché non voglio avere a che fare con i genitori del mio personaggio nel gioco, ma sono ancora vivi da qualche parte e potrei spostarli in legami a un certo punto.
 
-> La maggior parte delle cose su di lei, tuttavia, la metto come vincoli perché mi piace che i miei personaggi siano personalmente legati agli eventi del gioco. Sto inserendo una sorella minore, che è una sacerdotessa da qualche parte; una banda inaffidabile di contrabbandieri che compra cose che Zadie trova; una vecchia nemica di nome Locust che era la sua compagna; e il fatto che Zadie una volta abbia scoperto l'ingresso di un vecchio sistema sotterraneo nella landa desolata.
+> La maggior parte delle cose su di lei, tuttavia, la metto come legami perché mi piace che i miei personaggi siano personalmente legati agli eventi del gioco. Sto inserendo una sorella minore, che è una sacerdotessa da qualche parte; una banda inaffidabile di contrabbandieri che compra cose che Zadie trova; una vecchia nemica di nome Locust che era la sua compagna; e il fatto che Zadie una volta abbia scoperto l'ingresso di un vecchio sistema sotterraneo nella landa desolata.
 
 > Non ho idea di cosa significhino la maggior parte di questi elementi o quali siano i loro dettagli. Lo lascio al GM e alla nostra storia in via di sviluppo. Quello che stabilisco (e dico al GM e agli altri giocatori) è che la sua passione per la vendetta è rivolta a Locust, anche se non ho ancora capito cosa sia successo esattamente.
 
