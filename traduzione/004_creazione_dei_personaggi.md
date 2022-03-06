@@ -163,67 +163,221 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 > Adesso devo scegliere l'effetto dell'arma per Mietitore Silenzioso. Può sempre cambiarlo grazie al suo potere di Forgiaspirito, ma inizierò con Colpo Possente, che le permette di eliminare più facilmente i singoli bersagli. È adatto per un fucile da cecchino.
 
 
-<div class="archetipi-base">
+<div class="archetipi">
 
 ### Archetipi di base
-#### Soldier
+#### Autodidatta
 <div class="archetipo"></div>
-- Resilience
-- Squad Tactics
-- Stamina
 
-#### Prodigy
-<div class="archetipo"></div>
-- Maneuver Boost
-- Resilience
-- Tactical Maneuvering
+- Carica Potenziata
+- Manovra Potenziata
+- Resilienza
 
-#### Sparker
+#### Folgore
 <div class="archetipo"></div>
-- Darksight
-- Resilience
-- Resistance to Electricity
 
-#### Rebel
-<div class="archetipo"></div>
-- Achievement Boost
-- Resilience
-- Squad Tactics
+- Scurovisione
+- Resilienza
+- Resistenza all’Elettricità
 
-#### Savant
+#### Monaco Bambino
 <div class="archetipo"></div>
-- Charge Boost
-- Maneuver Boost
-- Resilience
 
-#### Child of the Gate
-<div class="archetipo"></div>
-- Resilience
-- Resistance to Fire
-- Spontaneous Gating
+- Resilienza
+- Resistenza Spirituale
+- Vigore
 
-#### Street Urchin
+#### Ombromante
 <div class="archetipo"></div>
-- Resilience
-- Resistance to Frost
-- Stamina
 
-#### Shadowborn
-<div class="archetipo"></div>
-- Conjure Darkness
-- Darksight
-- Resilience
+- Ottenebramento
+- Scurovisione
+- Resilienza
 
-#### Child Monk
+#### Prodigio
 <div class="archetipo"></div>
-- Resilience
-- Soul Resistance
-- Stamina
+
+- Manovra Potenziata
+- Resilienza
+- Manovra Tattica
+
+#### Progenie del Portale
+<div class="archetipo"></div>
+
+- Resilienza
+- Resistenza al Fuoco
+- Varco Innato
+
+#### Ribelle
+<div class="archetipo"></div>
+
+- Successo Potenziato
+- Resilienza
+- Squadriglia Tattica
+
+#### Senzatetto
+<div class="archetipo"></div>
+
+- Resilienza
+- Resistenza al Gelo
+- Vigore
+
+#### Soldato
+<div class="archetipo"></div>
+
+- Resilienza
+- Squadriglia Tattica
+- Vigore
+
+### Archetipi Focalizzati
+#### Armaiolo
+<div class="archetipo"></div>
+
+- Infusione Rapida
+- Resilienza
+- Arma Spirituale (con effetti variabili)
+- Forgiaspirito
+- Arma Potenziata
+- Folgore
+
+#### Assaltatore
+<div class="archetipo"></div>
+
+- Attacco Impetuoso
+- Assalto
+- Eroica
+- Manovra Potenziata
+- Resilienza
+- Possanza
+
+#### Assassino
+<div class="archetipo"></div>
+
+- Accecare
+- Attacco Impetuoso
+- Tossina
+- Rapidità
+- Resilienza
+- Shadow Strike
+
+#### Caposquadra
+<div class="archetipo"></div>
+
+- Attacco Impetuoso
+- Eroica
+- Comando
+- Resilienza
+- Manovra Tattica
+- Attacco Combinato
+
+#### Criomante
+<div class="archetipo"></div>
+
+- Impeto Elementale
+- Aculei Gelidi
+- Uragano di Ghiaccio
+- Resilienza
+- Stasi
+- Erosione
+
+#### Evocatore
+<div class="archetipo"></div>
+
+- Legame: Caragu (potere aggiuntivo: Possanza)
+- Legame: Harklings
+- Potenziamento Eidolon II
+- Ripristino
+- Evocazione
+
+#### Guaritore
+<div class="archetipo"></div>
+
+- Chiarore
+- Trasferimento Vitale
+- Ripristino
+- Resilienza
+- Risanamento
+- Araba Fenice
+
+#### Latore di Rovina
+<div class="archetipo"></div>
+
+- Assorbimento Vitale
+- Effetto Massa
+- Resilienza
+- Rovina
+- Vampirismo
+- Erosione
+
+#### Monaco Guerriero
+<div class="archetipo"></div>
+
+- Resistenza Fisica
+- Attacco Impetuoso
+- Ripristino
+- Resilienza
+- Araba Fenice
+- Attacco Turbinante
+
+
+#### Piromante
+<div class="archetipo"></div>
+
+- Chiarore
+- Vampata
+- Impeto Elementale
+- Tempesta di Fuoco
+- Visione Notturna
+- Resilienza
+
+#### Sentinella
+<div class="archetipo"></div>
+
+- Difesa
+- Ripristino
+- Arma Spirituale (con gli effetti Strale Elementale, Aura Gelida, Protezione, e Velocità)
+- Arma Potenziata III
+
+#### Viandante Planare
+<div class="archetipo"></div>
+
+- Attacco Impetuoso
+- Assalto
+- Resilienza
+- Balzo
+- Vigore
+- Arma Spirituale (con effetto Pneumatica)
 
 </div>
 
-### Archetipi specializzati
 
+## Retroscena e Vincoli
 
+I personaggi possono avere retroscena e vincoli indicati nelle loro schede personaggio. Se avete mai scritto un retroscena per un personaggio con gli eventi salienti del suo passato, avete steso un elenco dei contatti PNG del personaggio e così via, sapete cosa indicare qui.
 
+C'è una grande differenza tra retroscena e vincoli: i retroscena sono la facoltà del giocatore di dare profondità al proprio personaggio, mentre i vincoli sono forniti come strumenti del GM.
 
+Se il vostro personaggio ha un fratello perduto da tempo e lo inserite nel vostro retroscena, il GM non lo tirerà fuori durante la partita. Il fratello ha un ruolo utile per il vostro personaggio, ma non verrà utilizzato dal GM per scopi di trama.
+
+Se mettete vostro fratello sotto i vincoli, invece, date al GM il via libera per far apparire vostro fratello nel gioco come PNG. O forse troverete indizi su dove si trova. Oppure potreste trovare il suo cadavere. L'utilizzo di un vincolo dipende dal GM (anche se dovreste sentirti liberi di dare suggerimenti, ovviamente). Potete aggiungere o modificare retroscena e vincoli anche in un secondo momento, assicuratevi però di informare il GM in modo che possa utilizzare i nuovi vincoli (o smettere di usare quelli che avete rimosso).
+
+> Per prima cosa, il retroscena di Zadie. Anche i suoi genitori erano razziatori. Li metto nella sezione del retroscena perché non voglio avere a che fare con i genitori del mio personaggio nel gioco, ma sono ancora vivi da qualche parte e potrei spostarli in vincoli a un certo punto.
+
+> La maggior parte delle cose su di lei, tuttavia, la metto come vincoli perché mi piace che i miei personaggi siano personalmente legati agli eventi del gioco. Sto inserendo una sorella minore, che è una sacerdotessa da qualche parte; una banda inaffidabile di contrabbandieri che compra cose che Zadie trova; una vecchia nemica di nome Locust che era la sua compagna; e il fatto che Zadie una volta abbia scoperto l'ingresso di un vecchio sistema sotterraneo nella landa desolata.
+
+> Non ho idea di cosa significhino la maggior parte di questi elementi o quali siano i loro dettagli. Lo lascio al GM e alla nostra storia in via di sviluppo. Quello che stabilisco (e dico al GM e agli altri giocatori) è che la sua passione per la vendetta è rivolta a Locust, anche se non ho ancora capito cosa sia successo esattamente.
+
+## Spunti Narrativi dei Personaggi
+Lo spunto narrativo del personaggio viene creato da ogni giocatore per il proprio personaggio. È un evento, una missione o un problema di personalità che spinge il personaggio all'azione. Potrebbe essere una perdita personale, un innamoramento, la scoperta di un oggetto mistico, un giuramento di vendetta, essere esiliati, affrontare il disprezzo di sé e così via.
+
+Non dovreste pianificare un intero arco narrativo, non dovete nemmeno sapere chi o cosa ha causato l'evento. Finché succede qualcosa che dia al vostro personaggio un obiettivo da perseguire o un mistero da esplorare, o qualcosa che gli complica la vita e crea buone scene drammatiche, siete sulla strada giusta.
+
+A seconda del vostro stile di gioco, lo spunto narrativo del personaggio può entrare in conflitto o meno con lo spunto narrativo di gruppo. Per la maggior parte dei giocatori, suggerirei che dovrebbero essere intrecciati in modo da sostenersi a vicenda o da essere completamente indipendenti. Ad esempio, se lo spunto del tuo gruppo è che tutti i PG sono bloccati insieme in un territorio sconosciuto dopo l'incidente di un dirigibile, lo spunto narrativo del personaggio potrebbe dimostrare il tuo ritrovato amore per uno degli altri PG, superando la tua paura dell'ignoto, offrendo quello messaggio urgente nonostante il tuo atterraggio di fortuna, ecc.
+
+I giocatori avanzati possono avere spunti narrativi del personaggio che sono in conflitto con lo spunto narrativo di gruppo. Questo è un ottimo carburante per scelte drammatiche: il GM può mettere il PG in una posizione in cui deve scegliere tra l'una e l'altra e capire cosa sia più importante per lui. Ma può anche fare a pezzi il gruppo di PG se non state attenti, motivo per cui lo suggerisco solo se siete pronti per quel tipo di tensione.
+
+> Il nostro spunto di gruppo assicura che rimarremo uniti per un po', e conosco i miei compagni giocatori abbastanza bene da sapere che ci piace interpretare un po' di tensione tra i nostri personaggi. Parlo con un altro giocatore e decidiamo che il mio spunto narrativo del personaggio è che il suo personaggio Rasheem indossa una collana che so appartenere alla mia vecchia nemesi Locust. In effetti, lo so perché gliel'ho dato quando eravamo ancora partner e avevo una cotta per lui. È fatto da qualcosa di unico che ho trovato tra le rovine della landa desolata.
+
+> Come ha ottenuto la collana Rasheem? È dalla parte di Locust? La mia nemesi è coinvolta nell'attacco alla carovana? Queste domande riceveranno risposta durante il nostro gioco. Notate che questo è solo uno spunto: scoprirò le risposte abbastanza presto, ma si spera che porterà a un intero arco narrativo che coinvolga uno o più confronti con la mia nemesi. Facendo di questo il mio spunto, sto dicendo al GM e agli altri giocatori che questa è una delle cose su cui vorrei che il gioco si concentrasse.
+
+> A questo punto, compilo anche il mio tratto finale: "Diffidente nei confronti di Rasheem". Si scopre che il giocatore di Rasheem sceglie "A malincuore attratto da Zadie". Dovrebbe essere divertente da interpretare.
