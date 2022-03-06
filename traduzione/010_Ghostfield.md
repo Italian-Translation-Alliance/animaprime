@@ -1,4 +1,4 @@
-# GHOSTFIELD
+# Ghostfield
 
 ## Progenie del drago (racconto)
 
