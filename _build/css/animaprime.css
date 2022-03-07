@@ -24,7 +24,12 @@ body {
     columns: 2
 }
 
-.archetipi ul {
+.archetipo {
+    break-inside: avoid-column;
+    text-align: left;
+}
+
+.archetipo ul {
     list-style-type: none;
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
@@ -32,11 +37,6 @@ body {
     overflow: hidden;
     -webkit-column-break-inside: avoid; */
     display: inline-block;
-}
-
-.archetipo {
-    break-inside: avoid-column;
-    text-align: left;
 }
 
 p, blockquote, ul, ol, dl, table, pre {
