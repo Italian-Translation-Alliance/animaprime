@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Uncial+Antiqua&display=swap');
+
+@page {
+    size: 5.5in 8.5in; /* Change from the default size of A4 */
+    margin: 0.5in; /* Set margin on each page */
+  }
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Uncial Antiqua' !important;
+}
+
+body {
+    font-family: 'Quattrocento Sans';
+    font-size: 10pt;
+    text-align: justify;
+  }
+
+  #archetipi-di-base, #archetipi-focalizzati  {
+    page-break-before: always;
+}
+
+
+.archetipi {
+    columns: 2
+}
+
+.archetipi ul {
+    list-style-type: none;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    /* break-inside: avoid-column;
+    overflow: hidden;
+    -webkit-column-break-inside: avoid; */
+    display: inline-block;
+}
+
+.archetipo {
+    break-inside: avoid-column;
+    text-align: left;
+}
+
+p, blockquote, ul, ol, dl, table, pre {
+    margin-top: 0;
+    margin-bottom: 1em;
+  }
+  
+  a, a:hover {
+      color: #000;
+  }
