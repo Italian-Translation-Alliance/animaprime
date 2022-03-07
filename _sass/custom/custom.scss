@@ -22,24 +22,20 @@ body {
     columns: 2
 }
 
-.archetipi ul {
+.archetipo {
+    break-inside: avoid-column;
+    text-align: left;
+}
+
+.archetipo ul {
     list-style-type: none; /* Remove bullets */
     //padding: 0; /* Remove padding */
     //margin: 0; /* Remove margins */
-    break-inside: avoid-column;
+    //break-inside: avoid-column;
+    display: inline-block;
 }
 
-h4.archetipi {
-    page-break-inside: avoid;
-}
-h4.archetipi::after {
-    content: "";
-    display: block;
-    height: 100px;
-    margin-bottom: -100px;
-    page-break-inside: avoid;
-}
 
-li.archetipi {
+li.archetipo {
     list-style-type: none;
 }	
