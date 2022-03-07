@@ -84,3 +84,4 @@ Quando il vostro spunto di gruppo sta arrivando a conclusione, per esempio quand
 > Il nostro spunto di gruppo è: facciamo tutti parte di una carovana che è stata quasi spazzata via dai demoni mentre attraversava la terra desolata e ora dobbiamo trovare e salvare la nostra gente che è stata rapita dai demoni.
 
 > Questo spunto ci fa entrare in azione. Abbiamo un obiettivo di partenza, qualcosa da fare che coinvolge direttamente i nostri PG. Tutti i PG che creiamo devono avere una ragione per essere parte della carovana e per restare con il gruppo quando andiamo alla ricerca dei sopravvissuti. È responsabilità di ogni giocatore assicurarsi che il proprio PG soddisfi tali criteri.
+

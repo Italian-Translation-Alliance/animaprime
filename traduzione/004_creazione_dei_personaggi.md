@@ -435,3 +435,4 @@ I giocatori avanzati possono avere spunti narrativi del personaggio che sono in 
 > Come ha ottenuto la collana Rasheem? È dalla parte di Locust? La mia nemesi è coinvolta nell'attacco alla carovana? Queste domande riceveranno risposta durante il nostro gioco. Notate che questo è solo uno spunto: scoprirò le risposte abbastanza presto, ma si spera che porterà a un intero arco narrativo che coinvolga uno o più confronti con la mia nemesi. Facendo di questo il mio spunto, sto dicendo al GM e agli altri giocatori che questa è una delle cose su cui vorrei che il gioco si concentrasse.
 
 > A questo punto, compilo anche il mio tratto finale: "Diffidente nei confronti di Rasheem". Si scopre che il giocatore di Rasheem sceglie "A malincuore attratto da Zadie". Dovrebbe essere divertente da interpretare.
+

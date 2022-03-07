@@ -1,4 +1,4 @@
-# Intermezzi
+# 5. Intermezzi
 La maggior parte del tempo, i PG non saranno in veri e propri conflitti. Interagiranno tra loro, con i PNG e con l'ambiente. Le intermezzi del personaggio sono lì per permettervi di interpretare i vostri personaggi con un certo margine di manovra e ritmo, e allo stesso tempo forniscono qualche beneficio per giocare la personalità del vostro personaggio.
 
 Non tutti gli eventi devono accadere in intermezzi o conflitti; si possono avere scambi tra i giocatori e con il GM che parlano di cose che accadono "fuori campo". Sono come brevi paragrafi di esposizione nei romanzi. Si occupano dei momenti in cui i personaggi vanno da qualche parte e non succede niente di speciale, per esempio. Ma quando sta per avvenire un'interazione interessante tra i personaggi, inizia un intermezzo.

@@ -95,15 +95,32 @@ Poteri
 :  Attacco Impetuoso, Eroica, Resilienza III, Balzo, Varco Innato, Vigore, Arma Spirituale (Stivali: Pneumatica)
 
 ## Competenze
-Ghostfield comprende diverse competenze. Dovrebbero essere sufficienti a coprire la maggior parte delle azioni che i personaggi compiono nelle manovre ch contraddistinguono i conflitti. tali Competenze sono:
+Ghostfield comprende diverse competenze. Dovrebbero essere sufficienti a coprire la maggior parte delle azioni che i personaggi compiono nelle manovre che contraddistinguono i conflitti. Tali Competenze sono:
 
-|            |            |                 |               |                 |
-|------------|------------|-----------------|---------------|-----------------|
-| Acrobazia  | Aggeggi    | Armi a Distanza | Armi da Fuoco | Armi da Mischia |
-| Audacia    | Esplosivi  | Fortuna         | Fuorviare     | Gioco Sporco    |
-| Ingegneria | Intimidire | Lotta           | Percezione    | Possanza        |
-| Prontezza  | Resilienza | Scherno         | Sotterfugio   | Veicoli         |
-|            |            |                 |               |                 |
+<div class="competenze-lista" markdown="1">
+
+- Acrobazia
+- Aggeggi
+- Armi a Distanza
+- Armi da Fuoco
+- Armi da Mischia
+- Audacia
+- Esplosivi
+- Fortuna
+- Fuorviare
+- Gioco Sporco
+- Ingegneria
+- Intimidire
+- Lotta
+- Percezione
+- Possanza
+- Prontezza
+- Resilienza
+- Scherno
+- Sotterfugio
+- Veicoli
+
+</div>
 
 inoltre, potete aggiungere nuove Competenze, previo consenso del vostro gruppo di gioco. Dovranno comprendere un ampio spettro di azioni come quelle elencate in precedenza.
 
@@ -138,16 +155,16 @@ Ad alcuni personaggi capitano le cose migliori. Quando un edificio gli crolla ad
 Seleziona questa competenza se vuoi che il tuo personaggio sia uno degli individui più forti al mondo. Consente al tuo personaggio di compiere manovre basate su un incredibile sfoggio di forza fisica, come scagliare un nemico addosso agli altri attraverso il campo di battaglia (e funziona pure meglio se hai anche la competenza Mira), lottare con un vaporbot, o far cadere un albero addosso ai tuoi avversari.
 
 **Fuorviare**  
-Spesso la strategia migliore consiste nel persuadere il nemico e fargli credere di sapere cosa tu stia per fare. Poi, ovviamente, farai qualcosa del tutto insapettato. Fuorviare è qualcosa che tutti i personaggi sono in grado di fare, ma quelli che vantano tale competenza ne hanno fatto una forma d'arte; nessuno è in grado di prevedere cosa stiano per fare.
+Spesso la strategia migliore consiste nel persuadere il nemico e fargli credere di sapere cosa tu stia per fare. Poi, ovviamente, farai qualcosa del tutto inaspettato. Fuorviare è qualcosa che tutti i personaggi sono in grado di fare, ma quelli che vantano tale competenza ne hanno fatto una forma d'arte; nessuno è in grado di prevedere cosa stiano per fare.
 
 **Gioco Sporco**  
-Avete presenti il personaggio che getta della sabbia negli occhi della gente, infila una granata nell'armatura di un comandante, o sfrutta i soldati avversari come scudo umano? Bene, se scegliete questa compentenza, allora quello è il vostro PG. Il personaggio necessita di un certa indole per poterlo fare, una visione alquanto malleabile dell'onore in combattimento. E voi dovrete essere in grado di saper improvvisare per sfruttare al meglio questa competenza. Oppure, potreste semplicemente chiedere suggerimento ai vostri compagni riguardo alla manovra.
+Avete presenti il personaggio che getta della sabbia negli occhi della gente, infila una granata nell'armatura di un comandante, o sfrutta i soldati avversari come scudo umano? Bene, se scegliete questa competenza, allora quello è il vostro PG. Il personaggio necessita di un certa indole per poterlo fare, una visione alquanto malleabile dell'onore in combattimento. E voi dovrete essere in grado di saper improvvisare per sfruttare al meglio questa competenza. Oppure, potreste semplicemente chiedere suggerimento ai vostri compagni riguardo alla manovra.
 
 **Ingegneria**  
 Solitamente, sfruttate le vostre competenze per creare oggetti. Ma in caso di necessità, quando qualcuno tenta di ferire voi o i vostri amici, non esitate a sfruttare le vostre competenze ingegneristiche per sfruttare il punto debole di un veicolo, lanciare un utensile nei suoi ingranaggi, o modificare il lanciafiamme esploso di un vaporbot per renderlo un'arma di distruzione improvvisata. E se vi trovate ad affrontare umani o abomini, potrete sempre colpirli con una chiave inglese, o utilizzare la vostra sparachiodi per fissare i loro abiti al muro più vicino.
 
 **Intimidire**  
-Alcuni personaggi sono decisamente spaventosi, e quelli con questa competenza sono pure peggio. Intimidire viene usata per tenere a bada i nemici, adocchiarli dall'alto in basso, spaventarli, o comunque influenzarli tramite la postura, minaccie verbali, e sguardi intensi. Persino vaporbot e altri costrutti possono essere intimiditi. In questi casi, la competenza funziona come Fuorviare ma sfruttando la violenza; l'effetto si ottiene non facendo credere all'aversario di stare per fare altro, ma assicurandosi che sappia esattamenta cosa gli capiterà non appena gli metterete le mani addosso.
+Alcuni personaggi sono decisamente spaventosi, e quelli con questa competenza sono pure peggio. Intimidire viene usata per tenere a bada i nemici, adocchiarli dall'alto in basso, spaventarli, o comunque influenzarli tramite la postura, minacce verbali, e sguardi intensi. Persino vaporbot e altri costrutti possono essere intimiditi. In questi casi, la competenza funziona come Fuorviare ma sfruttando la violenza; l'effetto si ottiene non facendo credere all'aversario di stare per fare altro, ma assicurandosi che sappia esattamente cosa gli capiterà non appena gli metterete le mani addosso.
 
 **Lotta**  
 I personaggi che vantano tale competenza tendono ad affrontare fisicamente i loro nemici. Utilizzando pugni, calci volanti, mosse di wrestling, gomitate, rovesciate, sbattendoci contro o sfruttando qualsiasi altro attacco che non comporti l'uso di altre armi oltre a quelle naturali.
@@ -156,7 +173,7 @@ I personaggi che vantano tale competenza tendono ad affrontare fisicamente i lor
 I personaggi con Armi da Mischia possono a volte scagliarle. I personaggi con Forza possono lanciare persone o alberi. Ma i personaggi con la competenza Mira sono imbattibili nello scagliare qualsiasi abbiano a portata di mano con una precisione incredibile. Che siano coltelli da lancio, pietre raccolte dal terreno, o quell'oggetto da lanciare in mano al tuo alleato percorrendo una distanza di 60 metri, se possiedi questa competenza, sei in grado di colpire qualsiasi bersaglio con qualsiasi cosa.
 
 **Percezione**  
-I personaggi con questa competenza hanno affinato la loro eprcezione a livelli sovraumani. forse sono in grado di scorgere dettagli minuscoli da distanze notevoli, o agire alla cieca come se potessero vedere (potreste voler prendere anche il potere Scurovisione per complementare), o individuano la posizione nemica grazie alle vibrazioni del terreno, oppure rallentano il tempo nella loro mente per poter notare tutto ciò che accade loro intorno. La gamma di manovre che è possibile compiere pecependo cose che altri personaggi ignorano è vasta, specialmente durante una battaglia.
+I personaggi con questa competenza hanno affinato la loro percezione a livelli sovraumani. forse sono in grado di scorgere dettagli minuscoli da distanze notevoli, o agire alla cieca come se potessero vedere (potreste voler prendere anche il potere Scurovisione per complementare), o individuano la posizione nemica grazie alle vibrazioni del terreno, oppure rallentano il tempo nella loro mente per poter notare tutto ciò che accade loro intorno. La gamma di manovre che è possibile compiere percependo cose che altri personaggi ignorano è vasta, specialmente durante una battaglia.
 
 **Prontezza**  
 Certo, alcuni individui sono veloci. Ma i personaggi che vantano questa competenza non solo li surclassano, ma sono pure incredibilmente coordinati. Usare Prontezza in una manovra permette a un personaggio di schivare missili, muoversi facilmente attraverso un'orda di nemici, o correre lungo la parete di un edificio (o un vaporbot).
@@ -168,16 +185,16 @@ Alcuni personaggi vantano una maggiore resistenza fisica e sono in grado di sost
 I personaggi con questa competenza sono in grado di far infuriare gli avversari al punto da fargli commettere delgi errori. In alcuni casi, Scherno funziona come un misto di Gioco Sporco e Fuorviare. Persino i vaporbot non sono immuni dall'essere attirati in trappola da qualcuno che continua a saltare su e giù, gesticolando e  scagliando insulti in direzione del semovente ammasso di immondizia. Tenete comunque conto che questa competenza tende a rendere il gioco più comico, assicuratevi quindi che si adatti al tono che avete concordato.
 
 **Sotterfugio**  
-Spesso la miglior manovra possibile consiste nell'agire senza essere visto fino al momento in cui si è pronti a colpire. I personaggi con la competenza Sotterfugio sono in grado di sparire imrpovvisamene alla vista persino durante una battaglia, muoversi senza emettere alcun rumore, o attaccare dalle ombre.
+Spesso la miglior manovra possibile consiste nell'agire senza essere visto fino al momento in cui si è pronti a colpire. I personaggi con la competenza Sotterfugio sono in grado di sparire improvvisamente alla vista persino durante una battaglia, muoversi senza emettere alcun rumore, o attaccare dalle ombre.
 
 **Veicoli**  
 Alcuni personaggi devono avere determinati veicoli per usare questa competenza. Questi possono essere di dimensioni contenute (come dei rollerblade) o arrivare alle dimensioni di un aeronave. Questa competenza consente inoltre di sfruttare la conoscenza dei veicoli e dei loro punti deboli quando li si affronta. Suggerisco l'uso di questa competenza solamente quando i PG hanno sempre a disposizione un veicolo (come anche un'armatura potenziata), o ne abbiano un'ampia disponibilità a portata di mano. La maggior parte delle volte, i nemici che utilizzano un veicolo sfrutteranno questa competenza.
 
 ## Poteri  
 
-Per quanto non siano diffusi, i poteri non sono comunque rari. Tuttavia, possedere una diversa agmma di poteri come i PG è privilegio di pochi. Considerando sia i territori di Enendia che di Kanissia, ci saranno circa una dozzina di individui allo stesso livello dei PG o più forti.
+Per quanto non siano diffusi, i poteri non sono comunque rari. Tuttavia, possedere una diversa gamma di poteri come i PG è privilegio di pochi. Considerando sia i territori di Enendia che di Kanissia, ci saranno circa una dozzina di individui allo stesso livello dei PG o più forti.
 
-Nel Ghostfield i poteri si dividono in diverse categorie: poteri passici, poteri caricati, armi spirituali e poteri di evocazione.
+Nel Ghostfield i poteri si dividono in diverse categorie: poteri passivi, poteri caricati, armi spirituali e poteri di evocazione.
 
 I **poteri passivi** sono sempre in funzione e non necessitano dell'impiego di alcun dado di carica.
 
@@ -187,13 +204,13 @@ Le **armi spirituali** e i **poteri di evocazione**, sono contraddistinti sia da
 
 ### Scegliere i poteri alla creazione del personaggio  
 
-A meno che non venga specificato diversamente, è possibile selezionare un determinato potere una volta soltanto. Tale regola si appplica a tutti i poteri indipendentemente dalla categoria.  
+A meno che non venga specificato diversamente, è possibile selezionare un determinato potere una volta soltanto. Tale regola si applica a tutti i poteri indipendentemente dalla categoria.  
 
 Alcuni poteri ed effetti delle armi infliggono determinate condizioni ai personaggi. Tali condizioni verranno illustrate nel capitolo 15. Potreste volerci dare un occhio prima di scegliere il relativo potere.
 
 Quando scegliete i poteri per il vostro personaggio, assicuratevi di includere alcuni poteri caricati di modo da poter utilizzare i dadi di carica che otterrete inevitabilmente durante un conflitto. I pacchetti di potere presenti nel capitolo di creazione del personaggio rappresentano ottime basi da cui partire. Contengono tutti alcuni poteri caricati così come delle difese decenti.  
 
-Inoltre, è bene coordinarvi coi vostri compagni PG. Molti poteri funzionano al meglio in congiunzione con quaelli scelti da altri giocatori, come ad esempio Comando e Squadriglia Tattica.  
+Inoltre, è bene coordinarvi coi vostri compagni PG. Molti poteri funzionano al meglio in congiunzione con quelli scelti da altri giocatori, come ad esempio Comando e Squadriglia Tattica.  
 
 Infine, i nemici non sono limitati ai poteri elencato. Il GM è libero di creare per loro nuovi poteri o modificare quelli descritti (riducendo il costo in dadi di carica, facendo in modo che influenzino tutti i PG contemporaneamente, ecc...). Un esempio interessante potrebbe essere una sorta di "Resistenza ai Danni Non-Elementali" che aumenta la difesa dell'avversario solamente contro attacchi che non siano basati su fuoco, gelo o elettricità, e che ricompenserebbe i PG che utilizzassero i poteri caricati di tipo elementale (o gli obbiettivi). Potete trovare alcuni esempi di peculiari poteri per gli avversari nel capitolo 16.  
 
