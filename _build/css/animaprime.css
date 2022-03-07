@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Uncial+Antiqua&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quattrocento+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Uncial+Antiqua');
 
 @page {
     size: 5.5in 8.5in; /* Change from the default size of A4 */
@@ -7,6 +7,11 @@
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Uncial Antiqua' !important;
+    page-break-after: avoid;
+}
+
+h1 {
+    page-break-before: right;
 }
 
 body {
@@ -44,6 +49,26 @@ body {
     list-style-type: none !important;
 }
 
+.competenze-lista {
+    columns: 5;
+    column-fill: balance;
+    text-align: left;
+    margin-bottom: 1em;
+}
+
+.competenze-lista ul {
+    list-style-type: none;
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+    /* break-inside: avoid-column;
+    overflow: hidden;
+    -webkit-column-break-inside: avoid; */
+}
+
+.competenze-lista ul > li {
+    list-style-type: none !important;
+}
+
 p, blockquote, ul, ol, dl, table, pre {
     margin-top: 0;
     margin-bottom: 1em;
@@ -52,3 +77,8 @@ p, blockquote, ul, ol, dl, table, pre {
   a, a:hover {
       color: #000;
   }
+
+blockquote {
+    font-style: italic;
+    page-break-inside: avoid;
+}  
