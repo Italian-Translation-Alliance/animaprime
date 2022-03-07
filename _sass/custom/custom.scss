@@ -30,7 +30,13 @@ body {
 }
 
 h4.archetipi {
-    break-after: avoid-column;
+    page-break-inside: avoid;
+}
+h4.archetipi::after {
+    content: "";
+    display: block;
+    height: 100px;
+    margin-bottom: -100px;
 }
 
 li.archetipi {
