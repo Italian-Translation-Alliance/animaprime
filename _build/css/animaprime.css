@@ -22,7 +22,7 @@ body {
 
 .archetipi {
     columns: 2;
-    column-fill: auto;
+    column-fill: balance;
 }
 
 .archetipo {
