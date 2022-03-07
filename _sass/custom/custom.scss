@@ -17,3 +17,13 @@ h1, h2, h3, h4, h5, h6 {
 body {
     font-family: $custom-font-family;
   }
+
+.archetipi {
+    columns: 2
+}
+
+.archetipo + ul.no-bullets {
+    list-style-type: none; /* Remove bullets */
+    padding: 0; /* Remove padding */
+    margin: 0; /* Remove margins */
+}
