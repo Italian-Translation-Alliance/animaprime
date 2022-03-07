@@ -24,13 +24,13 @@ body {
 
 .archetipi ul {
     list-style-type: none; /* Remove bullets */
-    padding: 0; /* Remove padding */
-    margin: 0; /* Remove margins */
+    //padding: 0; /* Remove padding */
+    //margin: 0; /* Remove margins */
     break-inside: avoid-column;
 }
 
 h4.archetipi {
-    break-inside: avoid-column;
+    break-after: avoid-column;
 }
 
 li.archetipi {
