@@ -97,12 +97,30 @@ Potete tenere da parte uno o due dei tratti e inserirli durante il gioco (e pote
 ## Competenze
 Ogni personaggio ha tre competenze che può usare nei conflitti. L'ambientazione Ghostfield contiene un elenco di competenze tra cui potete scegliere. Selezionate semplicemente tre competenze dall'elenco che si adattano al vostro personaggio o creane di simili. Per vostra comodità, ecco l'elenco senza le spiegazioni del Capitolo 10.
 
-|            |            |                 |               |                 |
-| ---------- | ---------- | --------------- | ------------- | --------------- |
-| Acrobazia  | Aggeggi    | Armi a Distanza | Armi da Fuoco | Armi da Mischia |
-| Audacia    | Esplosivi  | Fortuna         | Fuorviare     | Gioco Sporco    |
-| Ingegneria | Intimidire | Lotta           | Percezione    | Possanza        |
-| Prontezza  | Resilienza | Scherno         | Sotterfugio   | Veicoli         |
+<div class="competenze-lista" markdown="1">
+
+- Acrobazia
+- Aggeggi
+- Armi a Distanza
+- Armi da Fuoco
+- Armi da Mischia
+- Audacia
+- Esplosivi
+- Fortuna
+- Fuorviare
+- Gioco Sporco
+- Ingegneria
+- Intimidire
+- Lotta
+- Percezione
+- Possanza
+- Prontezza
+- Resilienza
+- Scherno
+- Sotterfugio
+- Veicoli
+
+</div>
 
 Se state creando la vostra ambientazione, potete creare il vostro elenco di competenze in gruppo, oppure potete consentire competenze liberamente in modo simile a come si creano i tratti. Se create competenze liberamente, tuttavia, tutto il gruppo dovrebbe assicurarsi di esaminarle tutte e modificarle per coerenza interna prima di iniziare.
 
@@ -166,7 +184,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 
 ### Archetipi di base
 
-<div class=archetipi markdown="1">
+<div class="archetipi" markdown="1">
 
 <div class="archetipo" markdown="1">
 
