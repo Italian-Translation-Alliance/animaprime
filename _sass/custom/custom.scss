@@ -28,3 +28,11 @@ body {
     margin: 0; /* Remove margins */
     break-inside: avoid-column;
 }
+
+.archetipi h4 {
+    break-inside: avoid-column;
+}
+
+.archetipi li {
+    list-style-type: none;
+}
