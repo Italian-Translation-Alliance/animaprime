@@ -3,6 +3,11 @@
 @page {
     size: 5.5in 8.5in; /* Change from the default size of A4 */
     margin: 0.5in; /* Set margin on each page */
+    @bottom-center {
+        content: counter(page);
+        font-size: 12;
+        font-family: 'Uncial Antiqua';
+    }
   }
 
 h1, h2, h3, h4, h5, h6 {
@@ -77,6 +82,11 @@ p, blockquote, ul, ol, dl, table, pre {
   a, a:hover {
       color: #000;
   }
+
+p {
+    word-spacing:-1px;
+    hyphens: auto;
+}
 
 blockquote {
     font-style: italic;
