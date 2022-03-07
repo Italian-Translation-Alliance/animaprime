@@ -279,104 +279,112 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 
 </div>
 
-#### Assassino
-<div class="archetipo" markdown="1"></div>
+<div class="archetipo" markdown="1">
 
+#### Assassino
 - Accecare
 - Attacco Impetuoso
 - Tossina
 - Rapidità
 - Resilienza
 - Shadow Strike
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Caposquadra
-<div class="archetipo" markdown="1"></div>
-
 - Attacco Impetuoso
 - Eroica
 - Comando
 - Resilienza
 - Manovra Tattica
 - Attacco Combinato
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Criomante
-<div class="archetipo" markdown="1"></div>
-
 - Impeto Elementale
 - Aculei Gelidi
 - Uragano di Ghiaccio
 - Resilienza
 - Stasi
 - Erosione
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Evocatore
-<div class="archetipo" markdown="1"></div>
-
 - Legame: Caragu (potere aggiuntivo: Possanza)
 - Legame: Harklings
 - Potenziamento Eidolon II
 - Ripristino
 - Evocazione
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Guaritore
-<div class="archetipo" markdown="1"></div>
-
 - Chiarore
 - Trasferimento Vitale
 - Ripristino
 - Resilienza
 - Risanamento
 - Araba Fenice
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Latore di Rovina
-<div class="archetipo" markdown="1"></div>
-
 - Assorbimento Vitale
 - Effetto Massa
 - Resilienza
 - Rovina
 - Vampirismo
 - Erosione
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Monaco Guerriero
-<div class="archetipo" markdown="1"></div>
-
 - Resistenza Fisica
 - Attacco Impetuoso
 - Ripristino
 - Resilienza
 - Araba Fenice
 - Attacco Turbinante
+</div>
 
+<div class="archetipo" markdown="1">
 
 #### Piromante
-<div class="archetipo" markdown="1"></div>
-
 - Chiarore
 - Vampata
 - Impeto Elementale
 - Tempesta di Fuoco
 - Visione Notturna
 - Resilienza
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Sentinella
-<div class="archetipo" markdown="1"></div>
-
 - Difesa
 - Ripristino
 - Arma Spirituale (con gli effetti Strale Elementale, Aura Gelida, Protezione, e Velocità)
 - Arma Potenziata III
+</div>
+
+<div class="archetipo" markdown="1">
 
 #### Viandante Planare
-<div class="archetipo" markdown="1"></div>
-
 - Attacco Impetuoso
 - Assalto
 - Resilienza
 - Balzo
 - Vigore
 - Arma Spirituale (con effetto Pneumatica)
-
+</div>
 </div>
 
 ## Retroscena e Legami
