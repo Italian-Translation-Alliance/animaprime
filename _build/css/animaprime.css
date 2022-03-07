@@ -39,6 +39,10 @@ body {
     display: inline-block;
 }
 
+.archetipo li {
+    list-style-type: none !important;
+}
+
 p, blockquote, ul, ol, dl, table, pre {
     margin-top: 0;
     margin-bottom: 1em;
