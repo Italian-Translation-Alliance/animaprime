@@ -168,78 +168,96 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 
 <div class=archetipi markdown="1">
 
-#### Autodidatta
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1">
 
+#### Autodidatta
 - Carica Potenziata
 - Manovra Potenziata
 - Resilienza
 
-#### Fulmineo
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Fulmineo
 - Scurovisione
 - Resilienza
 - Resistenza all’Elettricità
 
-#### Monaco Bambino
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Monaco Bambino
 - Resilienza
 - Resistenza Spirituale
 - Vigore
 
-#### Ombromante
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Ombromante
 - Ottenebramento
 - Scurovisione
 - Resilienza
 
-#### Prodigio
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Prodigio
 - Manovra Potenziata
 - Resilienza
 - Manovra Tattica
 
-#### Progenie del Portale
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Progenie del Portale
 - Resilienza
 - Resistenza al Fuoco
 - Varco Innato
 
-#### Ribelle
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Ribelle
 - Successo Potenziato
 - Resilienza
 - Squadriglia Tattica
 
-#### Senzatetto
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Senzatetto
 - Resilienza
 - Resistenza al Gelo
 - Vigore
 
+</div>
+
+<div class="archetipo" markdown="1">
+
 #### Soldato
-<div class="archetipo"></div>
 
 - Resilienza
 - Squadriglia Tattica
 - Vigore
 
 </div>
+</div>
 
 ### Archetipi Focalizzati
 
 <div class=archetipi markdown="1">
 
-#### Armaiolo
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1">
 
+#### Armaiolo
 - Infusione Rapida
 - Resilienza
 - Arma Spirituale (con effetti variabili)
@@ -247,9 +265,11 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Arma Potenziata
 - Folgore
 
-#### Assaltatore
-<div class="archetipo"></div>
+</div>
 
+<div class="archetipo" markdown="1">
+
+#### Assaltatore
 - Attacco Impetuoso
 - Assalto
 - Eroica
@@ -257,8 +277,10 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Resilienza
 - Possanza
 
+</div>
+
 #### Assassino
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Accecare
 - Attacco Impetuoso
@@ -268,7 +290,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Shadow Strike
 
 #### Caposquadra
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Attacco Impetuoso
 - Eroica
@@ -278,7 +300,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Attacco Combinato
 
 #### Criomante
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Impeto Elementale
 - Aculei Gelidi
@@ -288,7 +310,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Erosione
 
 #### Evocatore
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Legame: Caragu (potere aggiuntivo: Possanza)
 - Legame: Harklings
@@ -297,7 +319,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Evocazione
 
 #### Guaritore
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Chiarore
 - Trasferimento Vitale
@@ -307,7 +329,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Araba Fenice
 
 #### Latore di Rovina
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Assorbimento Vitale
 - Effetto Massa
@@ -317,7 +339,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Erosione
 
 #### Monaco Guerriero
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Resistenza Fisica
 - Attacco Impetuoso
@@ -328,7 +350,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 
 
 #### Piromante
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Chiarore
 - Vampata
@@ -338,7 +360,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Resilienza
 
 #### Sentinella
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Difesa
 - Ripristino
@@ -346,7 +368,7 @@ Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio
 - Arma Potenziata III
 
 #### Viandante Planare
-<div class="archetipo"></div>
+<div class="archetipo" markdown="1"></div>
 
 - Attacco Impetuoso
 - Assalto
