@@ -5,7 +5,6 @@
     margin: 0.5in; /* Set margin on each page */
     @bottom-center {
         content: counter(page);
-        font-size: 12;
         font-family: 'Uncial Antiqua';
     }
   }
@@ -13,6 +12,7 @@
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Uncial Antiqua' !important;
     page-break-after: avoid;
+    text-align: left;
 }
 
 h1 {
@@ -44,9 +44,6 @@ body {
     list-style-type: none;
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
-    /* break-inside: avoid-column;
-    overflow: hidden;
-    -webkit-column-break-inside: avoid; */
     display: inline-block;
 }
 
@@ -65,9 +62,6 @@ body {
     list-style-type: none;
     padding: 0; /* Remove padding */
     margin: 0; /* Remove margins */
-    /* break-inside: avoid-column;
-    overflow: hidden;
-    -webkit-column-break-inside: avoid; */
 }
 
 .competenze-lista ul > li {
@@ -79,9 +73,9 @@ p, blockquote, ul, ol, dl, table, pre {
     margin-bottom: 1em;
   }
   
-  a, a:hover {
+a, a:hover {
       color: #000;
-  }
+}
 
 p {
     word-spacing:-1px;
@@ -91,4 +85,24 @@ p {
 blockquote {
     font-style: italic;
     page-break-inside: avoid;
-}  
+}
+
+dt {
+    float: left;
+    text-align: left;
+    font-weight: bold;
+  }
+
+dt::after {  
+  content: ":";
+}
+
+.dialogo dd {
+    margin-left: 15%;
+    margin-bottom: .5em;
+}
+
+dd {
+    margin-left: 25%;
+    margin-bottom: .5em;
+}
