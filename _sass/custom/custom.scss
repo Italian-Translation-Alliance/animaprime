@@ -37,8 +37,9 @@ h4.archetipi::after {
     display: block;
     height: 100px;
     margin-bottom: -100px;
+    page-break-inside: avoid;
 }
 
 li.archetipi {
     list-style-type: none;
-}
+}	
