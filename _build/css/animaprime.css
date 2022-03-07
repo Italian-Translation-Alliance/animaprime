@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-    page-break-before: right;
+    page-break-before: always;
 }
 
 body {
@@ -47,10 +47,6 @@ body {
     display: inline-block;
 }
 
-.archetipo ul > li {
-    list-style-type: none !important;
-}
-
 .competenze-lista {
     columns: 5;
     column-fill: balance;
@@ -64,8 +60,18 @@ body {
     margin: 0; /* Remove margins */
 }
 
-.competenze-lista ul > li {
-    list-style-type: none !important;
+.struttura ul {
+    list-style-type: none;
+    padding-left: 1.5em;
+}
+
+.struttura ul > li::after {
+    margin-bottom: 0.5em;
+}
+
+.struttura ul > li > ul > li {
+    margin-top: 0.5em;
+    page-break-inside: avoid;
 }
 
 p, blockquote, ul, ol, dl, table, pre {
@@ -87,22 +93,27 @@ blockquote {
     page-break-inside: avoid;
 }
 
+dt, dl {
+    display: block;
+    position: relative;
+    text-align: left;
+}
+
 dt {
     float: left;
-    text-align: left;
     font-weight: bold;
   }
 
 dt::after {  
-  content: ":";
-}
-
-.dialogo dd {
-    margin-left: 15%;
-    margin-bottom: .5em;
-}
+    content: ":";
+}  
 
 dd {
     margin-left: 25%;
     margin-bottom: .5em;
+}  
+
+.dialogo dd {
+    margin-left: 15%;
+    margin-bottom: .35em;
 }
