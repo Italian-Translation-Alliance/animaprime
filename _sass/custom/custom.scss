@@ -19,7 +19,8 @@ body {
   }
 
 .archetipi {
-    columns: 2
+    columns: 2;
+    column-fill: auto;
 }
 
 .archetipo {
@@ -36,6 +37,6 @@ body {
 }
 
 
-li.archetipo {
-    list-style-type: none;
-}	
+.archetipo ul > li {
+    list-style-type: none !important;
+}
