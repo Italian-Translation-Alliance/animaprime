@@ -24,7 +24,7 @@ Chiunque abbia poteri ha qualche aspetto non umano, definito Peculiarità di pot
 ## Passione
 La passione descrive il profondo stato emotivo del personaggio, ovvero non solo il suo stato d'animo attuale, ma l'unica passione che permea tutto ciò che fa. Vi dice qualcosa sul personaggio, permettendovi così di interpretarlo in modi interessanti.
 
-La passione consente anche al giocatore del personaggio di guadagnare dadi carica quando vengono attivate determinate condizioni. Queste condizioni sono elencate con ogni passione. Se l'attivazione di una passione fa guadagnare più dadi di carica di quelli che rientrano nella Riserva di Carica del personaggio, i dadi rimanenti vengono invece trasformati in dadi di attacco.
+La passione consente anche al giocatore del personaggio di guadagnare dadi carica quando vengono attivate determinate condizioni. Queste condizioni sono elencate con ogni passione. Se l'attivazione di una passione fa guadagnare più dadi carica di quelli che rientrano nella Riserva di Carica del personaggio, i dadi rimanenti vengono invece trasformati in dadi di attacco.
 
 > La passione di Zadie è la Vendetta. Dovrò capire chi le ha fatto del male, ma per ora lo lascio sul vago.
 
@@ -50,7 +50,7 @@ Il personaggio si preoccupa profondamente delle altre persone. Li mette al primo
 #### Dubbio
 Il personaggio ha un problema di bassa autostima. Si sente come se avesse bisogno di mettersi alla prova ai suoi occhi e a quelli degli altri.
 
-*Innesco*: ogni volta che spendete dadi di carica in poteri caricati per uno Attacco o un Successo, e quel Attacco o Successo fallisce (dopo aver usato tratti, se ce ne sono), potete mantenere quei dadi di carica invece di scartarli.
+*Innesco*: ogni volta che spendete dadi carica in poteri caricati per uno Attacco o un Successo, e quel Attacco o Successo fallisce (dopo aver usato tratti, se ce ne sono), potete mantenere quei dadi carica invece di scartarli.
 
 #### Furia
 Il personaggio ha accumulato molta aggressività.
@@ -60,7 +60,7 @@ Il personaggio ha accumulato molta aggressività.
 #### Gloria
 Questo personaggio si crogiola nella vittoria e nelle conquiste.
 
-*Innesco*: ottenete 2 dadi carica ogni volta che infliggete una ferita vincente a un avversario. Inoltre, se siete voi quelli che infliggete la ferita vincente all'ultimo nemico in un conflitto, manterrete tutti i vostri dadi di carica invece della metà (compresi i 2 che avete appena guadagnato). Non ottenete questi benefici per le azioni dei vostri eidolon, se ne avete.
+*Innesco*: ottenete 2 dadi carica ogni volta che infliggete una ferita vincente a un avversario. Inoltre, se siete voi quelli che infliggete la ferita vincente all'ultimo nemico in un conflitto, manterrete tutti i vostri dadi carica invece della metà (compresi i 2 che avete appena guadagnato). Non ottenete questi benefici per le azioni dei vostri eidolon, se ne avete.
 
 #### Paura
 Il personaggio è mosso dalla paura. Ha paura di farsi male e cerca di evitare di essere un bersaglio, ma più viene messo alle strette, più si infurierà.
@@ -75,7 +75,7 @@ Il personaggio si diverte a dispensare dolore.
 #### Vendetta
 Il personaggio ha subito un torto da qualcuno e cerca vendetta. Dovete nominare un PGN specifico contro il quale avete giurato vendetta (la vostra nemesi) e la fazione a cui appartiene (come Guardia Kanissiana, Lealista, Ribelle Enendiano, Cartello Criminale delle Lame Nascoste). Questa è una potente forza propulsiva per il personaggio.
 
-*Innesco*: guadagnate 1 dado di carica all'inizio di qualsiasi conflitto e 1 dado di carica per ogni ferita che subite. Se uno o più dei nemici che affrontate appartengono alla fazione della vostra nemesi, guadagnate è invece di 2 dadi di carica all'inizio del conflitto e 2 dadi di carica per ogni ferita che subite (questo include combattere la vostra nemesi insieme ad altri PG dalla vostra parte). Se affrontate la vostra nemesi da soli, guadagnate 3 dadi di carica all'inizio del conflitto e 3 dadi di carica per ogni ferita che subite.
+*Innesco*: guadagnate 1 dado di carica all'inizio di qualsiasi conflitto e 1 dado di carica per ogni ferita che subite. Se uno o più dei nemici che affrontate appartengono alla fazione della vostra nemesi, guadagnate è invece di 2 dadi carica all'inizio del conflitto e 2 dadi carica per ogni ferita che subite (questo include combattere la vostra nemesi insieme ad altri PG dalla vostra parte). Se affrontate la vostra nemesi da soli, guadagnate 3 dadi carica all'inizio del conflitto e 3 dadi carica per ogni ferita che subite.
 
 ## Tratti dei personaggi
 I personaggi hanno 3 tratti, che descrivono chi è il personaggio. I tratti indicano ciò che interessa al personaggio, le competenze speciali che lo definiscono, gli obiettivi della sua vita, l'amore non corrisposto che lo fa impazzire, il difetto che lo rende sempre agitato e così via. Un tratto può essere focalizzato su un altro personaggio o può essere di carattere generale. I tratti dirigono il gioco e alimentano le azioni del personaggio.
@@ -132,11 +132,11 @@ Dopo aver selezionato o creato tre competenze, assegnate a una un punteggio di 4
 
 ## Statistiche di base
 
-Ogni personaggio inizia con 3 Sfere Ferita, una Riserva Azione con un massimo di 10 dadi azione, una Riserva di Carica vuota con un massimo di 6 dadi carica e una difesa di 2. Collettivamente, questi numeri sono chiamati statistiche del vostro PG. Imparerete come usare queste statistiche nel capitolo sul conflitto.
+Ogni personaggio inizia con 3 Cerchi Ferita, una Riserva Azione con un massimo di 10 dadi azione, una Riserva di Carica vuota con un massimo di 6 dadi carica e una difesa di 2. Collettivamente, questi numeri sono chiamati statistiche del vostro PG. Imparerete come usare queste statistiche nel capitolo sul conflitto.
 
 Quando selezioni i tuoi poteri, puoi sceglierne alcuni che influiranno sulle tue statistiche (ad esempio, Resilienza aumenta la tua difesa e, se sei un nuovo giocatore, dovresti considerare di prenderlo una o due volte). Quando hai selezionato tutti i tuoi poteri, tieni a mente come le tue statistiche sono influenzate dai poteri e annotalo di conseguenza.
 
-> Zadie inizia con le stesse statistiche di base di chiunque altro: 3 Sfere Ferita, un limite di Action Pool di 10, un limite di Charge Pool di 6 e una difesa di 2. Posso già dire che vorrò scegliere poteri che renderla più dura, a causa della sua vita nella terra desolata.
+> Zadie inizia con le stesse statistiche di base di chiunque altro: 3 Cerchi Ferita, un limite di Action Pool di 10, un limite di Charge Pool di 6 e una difesa di 2. Posso già dire che vorrò scegliere poteri che renderla più dura, a causa della sua vita nella terra desolata.
 
 ## Selezionare i Poteri
 
@@ -150,19 +150,19 @@ Esistono quattro gruppi di poteri: poteri passivi, poteri caricati, poteri di Ar
 
 I poteri **Passivi** funzionano sempre; includono una maggiore Riserva d'Azione, resistenza contro elementi o poteri specifici, e così via.
 
-I poteri di **Carica** costano dadi di carica per essere utilizzati, che vengono accumulati durante un conflitto e quando si innescano le passioni. Possono aggiungere dadi bonus ad attacchi o successi, infliggere o rimuovere condizioni e altro ancora.
+I poteri di **Carica** costano dadi carica per essere utilizzati, che vengono accumulati durante un conflitto e quando si innescano le passioni. Possono aggiungere dadi bonus ad attacchi o successi, infliggere o rimuovere condizioni e altro ancora.
 
 Le **Armi Spirituali** sono una distinta raccolta di poteri che consentono ai personaggi di avere oggetti infusi con effetti specifici (in realtà non devono essere armi; possono essere pezzi di armatura, amuleti magici, spiriti guardiani, ecc.). Poiché queste armi sono spirituali, funzionano solo per il PG per il quale sono state create. I personaggi possono avere una o più armi e alcuni poteri consentono loro di modificare gli effetti durante il gioco. Se scegliete i poteri di Arma Spirituale, dovrete fare un passaggio aggiuntivo per capire quali siano gli effetti della vostra arma.
 
 L'**Evocazione** si occupa di vincolare creature (conosciute come *eidolons*) da altri mondi a voi stessi e di poterle evocare dalla vostra posizione attuale. I personaggi bonari hanno un legame  di amicizia e lealtà con queste creature, mentre altri le schiavizzano per eseguire i loro ordini. Se scegliete i poteri di evocazione, dovrete selezionare quali *eidolon* potete evocare, dall'elenco degli *eidolon* comuni in Ghostfield o inventando il vostro secondo le regole del Capitolo 14.
 
-È una buona idea avere almeno 1 o 2 poteri che consumano i dadi di carica. Altrimenti guadagnerete questi dadi durante i conflitti senza trarne alcun beneficio.
+È una buona idea avere almeno 1 o 2 poteri che consumano i dadi carica. Altrimenti guadagnerete questi dadi durante i conflitti senza trarne alcun beneficio.
 
 Inoltre, se state giocando per la prima volta, assicuratevi che ogni personaggio scelga Resilienza due volte e che almeno la metà dei personaggi abbia il potere di Ripristino. Questo darà ai vostri personaggi una buona difesa e un modo per riempire la vostra Riserva d'Azione durante i conflitti mentre state cercando di capire come spendere al meglio i vostri dadi.
 
 > Zadie è forte e veloce, oltre che piena di risorse. Scelgo i seguenti poteri per lei:
 
-> Possanza, aggiungendo una Sfera Ferita, per mostrare che è abituata alle difficoltà.
+> Possanza, aggiungendo un Cerchio Ferita, per mostrare che è abituata alle difficoltà.
 
 > Resilienza II, che porta la sua difesa a 4. Ha imparato a schivare e destreggiarsi tra attacchi, proiettili e quant'altro.
 
