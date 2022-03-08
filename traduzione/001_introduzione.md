@@ -56,7 +56,7 @@ Quella che segue è una rapida carrellata dell'intero libro, per darvi un'idea d
   - **11 Poteri Passivi**  
     Questo è un elenco di poteri passivi relativi a Ghostfield e selezionabili dai personaggi. Tali poteri sono sempre attivi e includono resistenze, ampliamenti dei limiti, immunità e simili.
   - **12 Poteri Caricati**  
-    I poteri caricati forniscono abilità ed effetti speciali attivabili dal personaggio utilizzando i dadi di carica ottenuti durante un conflitto. Includono poteri elementali come Vampata e Uragano di Ghiaccio, poteri che infliggono determinate condizioni come Tossina, poteri di supporto come Araba Fenice o Rapidità e abilità speciali come Vampirismo.
+    I poteri caricati forniscono abilità ed effetti speciali attivabili dal personaggio utilizzando i dadi carica ottenuti durante un conflitto. Includono poteri elementali come Vampata e Uragano di Ghiaccio, poteri che infliggono determinate condizioni come Tossina, poteri di supporto come Araba Fenice o Rapidità e abilità speciali come Vampirismo.
   - **13 Armi Spirituali**  
     Alcuni personaggi di Ghostfield possiedono armi che vantano determinati effetti speciali. 
     Questo capitolo spiega come acquisire, creare, modificare e utilizzare tali armi spirituali.
